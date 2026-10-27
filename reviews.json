@@ -1,16 +1,27 @@
 {
-  "generated_at": "2026-10-22T14:42:40.589514Z",
+  "generated_at": "2026-10-27T12:05:25.303924Z",
   "source": "Google Maps",
   "rating": 5,
-  "count": 50,
+  "count": 51,
   "places": [
     {
       "place_id": "0x12a4a342f65a4a21:0x87f684e6873ef6fc",
       "name": "CERRAJERÍA MERAFEX, S.L.",
-      "url": "https://www.google.com/maps/place/CERRAJER%C3%8DA+MERAFEX,+S.L./@41.3850207,2.1635211,17z/data=!3m1!4b1!4m6!3m5!1s0x12a4a342f65a4a21:0x87f684e6873ef6fc!8m2!3d41.3850207!4d2.1635211!16s%2Fg%2F11zgm5_277?entry=ttu&g_ep=EgoyMDI2MTAxOS4wIKXMDSoASAFQAw%3D%3D"
+      "url": "https://www.google.com/maps/place/CERRAJER%C3%8DA+MERAFEX,+S.L./@41.3850207,2.1635211,17z/data=!3m1!4b1!4m6!3m5!1s0x12a4a342f65a4a21:0x87f684e6873ef6fc!8m2!3d41.3850207!4d2.1635211!16s%2Fg%2F11zgm5_277?entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D"
     }
   ],
   "reviews": [
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tWTlZFOU9kVlpyUkZKVk4yOUtOMGgxYURCUFRIYxAB",
+      "place_id": "0x12a4a342f65a4a21:0x87f684e6873ef6fc",
+      "company": "Cerrajería Merafex, S.L.",
+      "author": "Maria Teresa López de Alda Moré",
+      "rating": 5,
+      "text": "Cumplidores con el horario.\nAtención con el cliente excelente.\nEl técnico rápido. Cuidadoso y muy amable.\nMuy contenta con el servicio",
+      "review_date": "2026-10-26T18:05:12+00:00",
+      "relative_date": "Hace 18 horas",
+      "likes": 0
+    },
     {
       "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xObVNIVm1VVk56U2pjeVlVbFJNRXRxTVhOQ2JtYxAB",
       "place_id": "0x12a4a342f65a4a21:0x87f684e6873ef6fc",
