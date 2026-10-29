@@ -1,16 +1,5 @@
 [
   {
-    "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tSSFdHeHdaazkyVlY5eVoydElUR05zUm1aak1FRRAB",
-    "place_id": "0x12a4a342f65a4a21:0x87f684e6873ef6fc",
-    "company": "Cerrajería Merafex, S.L.",
-    "author": "Paula Pacheco Cerro",
-    "rating": 5,
-    "text": "Contacte con ellos hace poco y repetiria otra vez sin duda, servicio profesional, impecable y sobretodo muy puntuales! Un trato superatento y profesional en todo momento, super recomendables la verdad 😊😊…",
-    "review_date": "2026-08-22T16:57:24+00:00",
-    "relative_date": "Hace 2 meses",
-    "likes": 0
-  },
-  {
     "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tneFJsOXhjbUY1YlROTlFtSkRkVXRyVDFrellWRRAB",
     "place_id": "0x12a4a342f65a4a21:0x87f684e6873ef6fc",
     "company": "Cerrajería Merafex, S.L.",
@@ -271,6 +260,17 @@
     "rating": 5,
     "text": "Excelente servicio. Rápidos, profesionales y muy amables. Resolvieron el problema enseguida y a un precio justo. ¡Totalmente recomendados!",
     "review_date": "2026-07-23T16:49:59+00:00",
+    "relative_date": "Hace 3 meses",
+    "likes": 0
+  },
+  {
+    "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xOck9XOURWVTVFVFV4M1VrSXRVR0ZmVFdVek9VRRAB",
+    "place_id": "0x12a4a342f65a4a21:0x87f684e6873ef6fc",
+    "company": "Cerrajería Merafex, S.L.",
+    "author": "MSLIS",
+    "rating": 5,
+    "text": "Empresa muy seria y formal. Me atendieron muy rápido y con eficiencia. Personal muy amable y atento. Se agradece cuando lo necesitas. Muy buena relación calidad/precio.  Muy muy recomendable!!!! Muchas gracias por vuestro servicio!!!! Habéis ganado un cliente!!!!",
+    "review_date": "2026-07-23T16:49:58+00:00",
     "relative_date": "Hace 3 meses",
     "likes": 0
   }
