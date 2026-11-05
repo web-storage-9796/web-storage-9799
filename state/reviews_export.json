@@ -1,0 +1,2080 @@
+{
+  "0x12a4a342f65a4a21:0x87f684e6873ef6fc": [
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tWTlZFOU9kVlpyUkZKVk4yOUtOMGgxYURCUFRIYxAB",
+      "place_id": "0x12a4a342f65a4a21:0x87f684e6873ef6fc",
+      "author": "Maria Teresa López de Alda Moré",
+      "rating": 5.0,
+      "review_text": {
+        "en": "Cumplidores con el horario.\nAtención con el cliente excelente.\nEl técnico rápido. Cuidadoso y muy amable.\nMuy contenta con el servicio"
+      },
+      "review_date": "2026-10-28T14:39:04+00:00",
+      "raw_date": "a week ago",
+      "likes": 0,
+      "user_images": [],
+      "s3_images": null,
+      "profile_url": "https://www.google.com/maps/contrib/105333954414604756260/reviews?hl=en",
+      "profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocKXhbPkJbSklMT8dyTIOYWs_mQhG91qFs4LNOvgRxErmG-2uw=w36-h36-p-rp-mo-br100",
+      "s3_profile_picture": null,
+      "owner_responses": {
+        "en": {
+          "text": "Muchas gracias Sra María Teresa! Nos ha encantado leer tu reseña. Es un gusto saber que has quedado tan satisfecha, especialmente con la atención recibida y el trabajo realizado. Esperamos volver a ayudarte cuando lo necesites! 😊 …"
+        }
+      },
+      "created_date": "2026-11-04T14:39:04.676150+00:00",
+      "last_modified": "2026-11-04T14:39:04.676150+00:00",
+      "last_seen_session": 16,
+      "last_changed_session": 16,
+      "is_deleted": 0,
+      "content_hash": "5bdd9b27b99e9d7e35439ea93f6ad9a527961bc93c0af1636cddd576ab68a93e",
+      "engagement_hash": "2e16dd5dbaf9d0e00790cb862df37de188a58c96241d89fbb34e3efcfe1a0b73",
+      "row_version": 1,
+      "sub_ratings": {},
+      "_review_text_raw": {
+        "en": "Cumplidores con el horario.\nAtención con el cliente excelente.\nEl técnico rápido. Cuidadoso y muy amable.\nMuy contenta con el servicio"
+      },
+      "_user_images_raw": [],
+      "_owner_responses_raw": {
+        "en": {
+          "text": "Muchas gracias Sra María Teresa! Nos ha encantado leer tu reseña. Es un gusto saber que has quedado tan satisfecha, especialmente con la atención recibida y el trabajo realizado. Esperamos volver a ayudarte cuando lo necesites! 😊 …"
+        }
+      }
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xGSFJWSlphamhpZEVWNVZrbDZRVGxGYUVSNVdtYxAB",
+      "place_id": "0x12a4a342f65a4a21:0x87f684e6873ef6fc",
+      "author": "Susana Sanz",
+      "rating": 5.0,
+      "review_text": {
+        "en": "He utilizado los servicios de la cerrajería Merafex, y la recomiendo al 100%.\nBuenos precios, buen servicio y sobre todo muy buenos profesionales. Así da gusto."
+      },
+      "review_date": "2026-07-23T16:57:31+00:00",
+      "raw_date": "Hace 3 meses",
+      "likes": 0,
+      "user_images": [],
+      "s3_images": null,
+      "profile_url": "https://www.google.com/maps/contrib/103141145776677224075/reviews?hl=es",
+      "profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVyuqxNvDGAhK0JRVsrpW2yld5NuM13IiovageDkPLMxJCF3UI=w36-h36-p-rp-mo-br100",
+      "s3_profile_picture": null,
+      "owner_responses": {
+        "en": {
+          "text": "¡Muchas gracias por tu reseña, Susana! Nos alegra saber que quedaste tan satisfecha con el servicio. Gracias por destacar nuestra profesionalidad y por recomendarnos. Comentarios como el tuyo nos animan a seguir trabajando igual cada día. ¡Un saludo y gracias por confiar en Merafex!"
+        }
+      },
+      "created_date": "2026-10-21T16:57:31.583216+00:00",
+      "last_modified": "2026-10-21T16:57:31.583216+00:00",
+      "last_seen_session": 4,
+      "last_changed_session": 4,
+      "is_deleted": 0,
+      "content_hash": "01cbac32e7882035027b772f616147eb187eb90d302e94d50b30e100f6828c7f",
+      "engagement_hash": "979d49cb40551bca086700e9c72e4199ff5484c5c3baf17868a156dd548823b4",
+      "row_version": 1,
+      "sub_ratings": {},
+      "_review_text_raw": {
+        "en": "He utilizado los servicios de la cerrajería Merafex, y la recomiendo al 100%.\nBuenos precios, buen servicio y sobre todo muy buenos profesionales. Así da gusto."
+      },
+      "_user_images_raw": [],
+      "_owner_responses_raw": {
+        "en": {
+          "text": "¡Muchas gracias por tu reseña, Susana! Nos alegra saber que quedaste tan satisfecha con el servicio. Gracias por destacar nuestra profesionalidad y por recomendarnos. Comentarios como el tuyo nos animan a seguir trabajando igual cada día. ¡Un saludo y gracias por confiar en Merafex!"
+        }
+      }
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21GU1RscFZOMGRMTjIxVmEzZEtTRkZrT1ZBd2RXYxAB",
+      "place_id": "0x12a4a342f65a4a21:0x87f684e6873ef6fc",
+      "author": "E. Muñoz",
+      "rating": 5.0,
+      "review_text": {
+        "en": "Mi experiencia a sido muy grata, eficacia y seriedad a un precio razonable.\nLo recomiendo"
+      },
+      "review_date": "2026-07-23T16:57:31+00:00",
+      "raw_date": "Hace 3 meses",
+      "likes": 0,
+      "user_images": [],
+      "s3_images": null,
+      "profile_url": "https://www.google.com/maps/contrib/112809963475964618330/reviews?hl=es",
+      "profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocIn1wA6G-CswDAzKoasMyzIJWz5hPuSp1VVFXOPNCjK7K3PPw=w36-h36-p-rp-mo-br100",
+      "s3_profile_picture": null,
+      "owner_responses": {
+        "en": {
+          "text": "¡Muchas gracias por tu reseña! Nos alegra saber que tu experiencia con Merafex ha sido positiva. Agradecemos que valores nuestra eficacia, seriedad y la relación calidad-precio. Gracias también por recomendarnos. ¡Un saludo!"
+        }
+      },
+      "created_date": "2026-10-21T16:57:31.465694+00:00",
+      "last_modified": "2026-10-21T16:57:31.465694+00:00",
+      "last_seen_session": 4,
+      "last_changed_session": 4,
+      "is_deleted": 0,
+      "content_hash": "f988b4b95917db7904a8709cbbed90f08f034d6e3a8e4a5e6b2d29c6523843a3",
+      "engagement_hash": "804fbc28893b9d97d094a9b31fcce675a9606c95443ea08f624b569b35c2de82",
+      "row_version": 1,
+      "sub_ratings": {},
+      "_review_text_raw": {
+        "en": "Mi experiencia a sido muy grata, eficacia y seriedad a un precio razonable.\nLo recomiendo"
+      },
+      "_user_images_raw": [],
+      "_owner_responses_raw": {
+        "en": {
+          "text": "¡Muchas gracias por tu reseña! Nos alegra saber que tu experiencia con Merafex ha sido positiva. Agradecemos que valores nuestra eficacia, seriedad y la relación calidad-precio. Gracias también por recomendarnos. ¡Un saludo!"
+        }
+      }
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pObU5tY3hTbVpuY0ZVeFkwZDNUQzA1VWxKMGRVRRAB",
+      "place_id": "0x12a4a342f65a4a21:0x87f684e6873ef6fc",
+      "author": "Nerea",
+      "rating": 5.0,
+      "review_text": {
+        "en": "Se rompió la persiana del balcón y se quedó toda entera enrollada arriba, quería repararla urgentemente. Me puse en contacto con ellos y en un momento ya tenía al técnico en casa y todo arreglado. Servicio eficiente. Repetiré."
+      },
+      "review_date": "2026-07-23T16:57:31+00:00",
+      "raw_date": "Hace 3 meses",
+      "likes": 0,
+      "user_images": [],
+      "s3_images": null,
+      "profile_url": "https://www.google.com/maps/contrib/105529422314713423953/reviews?hl=es",
+      "profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocIPHkWSDpyBkXxmwFZBlZ3TBxToXj2ULfpmZL5y7ut2kzAe8A=w36-h36-p-rp-mo-br100",
+      "s3_profile_picture": null,
+      "owner_responses": {
+        "en": {
+          "text": "¡Muchas gracias por tu reseña, Nerea! Nos alegra saber que pudimos ayudarte cuando más lo necesitabas y que quedaste satisfecha con el servicio. Gracias por confiar en Merafex y por compartir tu experiencia. Será un placer volver a ayudarte siempre que lo necesites. ¡Un saludo!"
+        }
+      },
+      "created_date": "2026-10-21T16:57:31.346290+00:00",
+      "last_modified": "2026-10-21T16:57:31.346290+00:00",
+      "last_seen_session": 4,
+      "last_changed_session": 4,
+      "is_deleted": 0,
+      "content_hash": "3dac7c67d8ecaad5864558c765287772be7a4102e4d6b6f2991b2b79086ce25b",
+      "engagement_hash": "8d32756fa6f07f00e6385cfc0322d4db8603b9439ab9fdf04315da0d05669daf",
+      "row_version": 1,
+      "sub_ratings": {},
+      "_review_text_raw": {
+        "en": "Se rompió la persiana del balcón y se quedó toda entera enrollada arriba, quería repararla urgentemente. Me puse en contacto con ellos y en un momento ya tenía al técnico en casa y todo arreglado. Servicio eficiente. Repetiré."
+      },
+      "_user_images_raw": [],
+      "_owner_responses_raw": {
+        "en": {
+          "text": "¡Muchas gracias por tu reseña, Nerea! Nos alegra saber que pudimos ayudarte cuando más lo necesitabas y que quedaste satisfecha con el servicio. Gracias por confiar en Merafex y por compartir tu experiencia. Será un placer volver a ayudarte siempre que lo necesites. ¡Un saludo!"
+        }
+      }
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tORGNsbDBabnBTVERoc01WSlNkV1ZFZUhKRVRWRRAB",
+      "place_id": "0x12a4a342f65a4a21:0x87f684e6873ef6fc",
+      "author": "Miguel Angel Martinez",
+      "rating": 5.0,
+      "review_text": {
+        "en": "Buen servicio!!"
+      },
+      "review_date": "2026-07-23T16:57:31+00:00",
+      "raw_date": "Hace 3 meses",
+      "likes": 0,
+      "user_images": [],
+      "s3_images": null,
+      "profile_url": "https://www.google.com/maps/contrib/103732496383497145791/reviews?hl=es",
+      "profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocInXSJEXI3piVnwLvxymXeV4-I8hZ7_-FMnG6OJEGtpXUYFPQ=w36-h36-p-rp-mo-ba12-br100",
+      "s3_profile_picture": null,
+      "owner_responses": {
+        "en": {
+          "text": "¡Muchas gracias por tu reseña, Miguel Ángel! Nos alegra saber que quedaste satisfecho con el servicio. Gracias por confiar en Merafex y por dedicar un momento a compartir tu experiencia. ¡Un saludo!"
+        }
+      },
+      "created_date": "2026-10-21T16:57:31.196316+00:00",
+      "last_modified": "2026-10-21T16:57:31.196316+00:00",
+      "last_seen_session": 4,
+      "last_changed_session": 4,
+      "is_deleted": 0,
+      "content_hash": "cda8dc7c0a89951414f4e7335cc90b6dd1b124dd7a36bc15ad302135b6496a6a",
+      "engagement_hash": "b358166112946bd3f9feefba3a14aa74bb77289994b9c61ad49c989245291943",
+      "row_version": 1,
+      "sub_ratings": {},
+      "_review_text_raw": {
+        "en": "Buen servicio!!"
+      },
+      "_user_images_raw": [],
+      "_owner_responses_raw": {
+        "en": {
+          "text": "¡Muchas gracias por tu reseña, Miguel Ángel! Nos alegra saber que quedaste satisfecho con el servicio. Gracias por confiar en Merafex y por dedicar un momento a compartir tu experiencia. ¡Un saludo!"
+        }
+      }
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT201R2JGaExhSE40Y1VRNVFrdGtObTB3VFVwRk4wRRAB",
+      "place_id": "0x12a4a342f65a4a21:0x87f684e6873ef6fc",
+      "author": "Carmen Montañés Sonsona",
+      "rating": 5.0,
+      "review_text": {
+        "en": "Geniales, son muy profesiones, serios y rápidos!!!👍…"
+      },
+      "review_date": "2026-07-23T16:57:31+00:00",
+      "raw_date": "Hace 3 meses",
+      "likes": 0,
+      "user_images": [],
+      "s3_images": null,
+      "profile_url": "https://www.google.com/maps/contrib/109573396205738622643/reviews?hl=es",
+      "profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVzwea0Z2XBLlfQkfnAHIhXDbPwnS_CS9IXlqBtdIX1MutnekQ=w36-h36-p-rp-mo-br100",
+      "s3_profile_picture": null,
+      "owner_responses": {
+        "en": {
+          "text": "¡Muchas gracias por tu reseña, Carmen! Nos alegra mucho saber que tu experiencia fue tan positiva. Comentarios como el tuyo nos animan a seguir trabajando con la misma seriedad, rapidez y dedicación. ¡Gracias por confiar en Merafex! 😊…"
+        }
+      },
+      "created_date": "2026-10-21T16:57:31.091784+00:00",
+      "last_modified": "2026-10-21T16:57:31.091784+00:00",
+      "last_seen_session": 4,
+      "last_changed_session": 4,
+      "is_deleted": 0,
+      "content_hash": "9fbf019a55f02c45db167cafeaf822386c11053ac48ed7d8cc7ae464c0d0592a",
+      "engagement_hash": "0d418d3a2dcbe369bc65d75c55e5c1368726bc921848d94094aeaeee78e247f8",
+      "row_version": 1,
+      "sub_ratings": {},
+      "_review_text_raw": {
+        "en": "Geniales, son muy profesiones, serios y rápidos!!!👍…"
+      },
+      "_user_images_raw": [],
+      "_owner_responses_raw": {
+        "en": {
+          "text": "¡Muchas gracias por tu reseña, Carmen! Nos alegra mucho saber que tu experiencia fue tan positiva. Comentarios como el tuyo nos animan a seguir trabajando con la misma seriedad, rapidez y dedicación. ¡Gracias por confiar en Merafex! 😊…"
+        }
+      }
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xSNFVGQjJRMjFFZEd3MExWWTBNV3hqVkhreVptYxAB",
+      "place_id": "0x12a4a342f65a4a21:0x87f684e6873ef6fc",
+      "author": "Isabel Franco Peló",
+      "rating": 5.0,
+      "review_text": {
+        "en": "Todo bien me cambiaron el cerrojo rápidamente y el juego de llaves"
+      },
+      "review_date": "2026-07-23T16:57:30+00:00",
+      "raw_date": "Hace 3 meses",
+      "likes": 0,
+      "user_images": [],
+      "s3_images": null,
+      "profile_url": "https://www.google.com/maps/contrib/103194756200832810653/reviews?hl=es",
+      "profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUNuy0G8ofUcC5gUVe06dy7GTaPOHdlZ87NCOU25l3GBtRLprFLtw=w36-h36-p-rp-mo-ba12-br100",
+      "s3_profile_picture": null,
+      "owner_responses": {
+        "en": {
+          "text": "¡Muchas gracias por tu reseña, Isabel! Nos alegra saber que quedaste contenta con el servicio y que todo fue rápido. Gracias por confiar en Merafex y por dedicar unos minutos a compartir tu experiencia. ¡Un saludo!"
+        }
+      },
+      "created_date": "2026-10-21T16:57:30.967846+00:00",
+      "last_modified": "2026-10-21T16:57:30.967846+00:00",
+      "last_seen_session": 4,
+      "last_changed_session": 4,
+      "is_deleted": 0,
+      "content_hash": "5d456247127741030598b9ca009fd1c043a557f2c7ab255b069c6093abf7340e",
+      "engagement_hash": "391e86469da0b0380dbcd7472e146731a3ac28d6841677aafc9a9a3a5918d04a",
+      "row_version": 1,
+      "sub_ratings": {},
+      "_review_text_raw": {
+        "en": "Todo bien me cambiaron el cerrojo rápidamente y el juego de llaves"
+      },
+      "_user_images_raw": [],
+      "_owner_responses_raw": {
+        "en": {
+          "text": "¡Muchas gracias por tu reseña, Isabel! Nos alegra saber que quedaste contenta con el servicio y que todo fue rápido. Gracias por confiar en Merafex y por dedicar unos minutos a compartir tu experiencia. ¡Un saludo!"
+        }
+      }
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xOMk1tRlBhMHBPUzB0YWFEbHhaazB0V205QmNtYxAB",
+      "place_id": "0x12a4a342f65a4a21:0x87f684e6873ef6fc",
+      "author": "Sandra Piedra",
+      "rating": 5.0,
+      "review_text": {
+        "en": "Servicio rápido y profesional. Gracias"
+      },
+      "review_date": "2026-07-23T16:57:30+00:00",
+      "raw_date": "Hace 3 meses",
+      "likes": 0,
+      "user_images": [],
+      "s3_images": null,
+      "profile_url": "https://www.google.com/maps/contrib/101301034937451259511/reviews?hl=es",
+      "profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocLDt03iHOKp7li-kMOznLpHgg35ivzT4Ztfm8n7Cp9s9vnI3bfh=w36-h36-p-rp-mo-ba12-br100",
+      "s3_profile_picture": null,
+      "owner_responses": {
+        "en": {
+          "text": "¡Muchas gracias por tus palabras, Sandra! Nos encanta saber que quedaste satisfecha con nuestro servicio. Ha sido un placer ayudarte. ¡Un saludo y gracias por confiar en Merafex!"
+        }
+      },
+      "created_date": "2026-10-21T16:57:30.839008+00:00",
+      "last_modified": "2026-10-21T16:57:30.839008+00:00",
+      "last_seen_session": 4,
+      "last_changed_session": 4,
+      "is_deleted": 0,
+      "content_hash": "777a50900bfd24e04bf23f487c97553093820699ae5d0429b1a37899b919ab73",
+      "engagement_hash": "b28f9cfd6995ad56157c2a91cc83ce09ed457729052b20e391ece548e70d4e03",
+      "row_version": 1,
+      "sub_ratings": {},
+      "_review_text_raw": {
+        "en": "Servicio rápido y profesional. Gracias"
+      },
+      "_user_images_raw": [],
+      "_owner_responses_raw": {
+        "en": {
+          "text": "¡Muchas gracias por tus palabras, Sandra! Nos encanta saber que quedaste satisfecha con nuestro servicio. Ha sido un placer ayudarte. ¡Un saludo y gracias por confiar en Merafex!"
+        }
+      }
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tGc1MydGpPSFowVDBjNVFWZG9SMnBWVlhWUlZFRRAB",
+      "place_id": "0x12a4a342f65a4a21:0x87f684e6873ef6fc",
+      "author": "MARIA ROSA GALLEGO FRECHILLA",
+      "rating": 5.0,
+      "review_text": {
+        "en": "Muy buen trabajo y rapidez en el servicio. Lo recomiendo mucho."
+      },
+      "review_date": "2026-07-23T16:57:30+00:00",
+      "raw_date": "Hace 3 meses",
+      "likes": 0,
+      "user_images": [],
+      "s3_images": null,
+      "profile_url": "https://www.google.com/maps/contrib/116930558914032638449/reviews?hl=es",
+      "profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocIooDOmdzAQWrfOt5AK2-lkRwBX3VM3PqweWt_N-Mh7pkqatQ=w36-h36-p-rp-mo-br100",
+      "s3_profile_picture": null,
+      "owner_responses": {
+        "en": {
+          "text": "¡Muchas gracias por recomendarnos, Maria Rosa! Nos alegra saber que quedaste contenta con nuestro trabajo y con la rapidez del servicio. Ha sido un placer atenderte.  ¡Un saludo!"
+        }
+      },
+      "created_date": "2026-10-21T16:57:30.698429+00:00",
+      "last_modified": "2026-10-21T16:57:30.698429+00:00",
+      "last_seen_session": 4,
+      "last_changed_session": 4,
+      "is_deleted": 0,
+      "content_hash": "31f0c592a9edbebe823ba57dad9634347631dfcd14b814ed6913c976a1cc34ba",
+      "engagement_hash": "839047ebbbe61bcbae274670f56854f20a4a8da3c02cc49841fb1b849b6726f8",
+      "row_version": 1,
+      "sub_ratings": {},
+      "_review_text_raw": {
+        "en": "Muy buen trabajo y rapidez en el servicio. Lo recomiendo mucho."
+      },
+      "_user_images_raw": [],
+      "_owner_responses_raw": {
+        "en": {
+          "text": "¡Muchas gracias por recomendarnos, Maria Rosa! Nos alegra saber que quedaste contenta con nuestro trabajo y con la rapidez del servicio. Ha sido un placer atenderte.  ¡Un saludo!"
+        }
+      }
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21WcFJHczFORWN3U1dkalJUTmtkbmRxVjBkTU4wRRAB",
+      "place_id": "0x12a4a342f65a4a21:0x87f684e6873ef6fc",
+      "author": "Albert Blasco Casas",
+      "rating": 5.0,
+      "review_text": {
+        "en": "Muy recomendable, atención al cliente super rápido y muy profesional."
+      },
+      "review_date": "2026-07-23T16:57:29+00:00",
+      "raw_date": "Hace 3 meses",
+      "likes": 0,
+      "user_images": [],
+      "s3_images": null,
+      "profile_url": "https://www.google.com/maps/contrib/101412609281368936957/reviews?hl=es",
+      "profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocKyakk79UV81W7-Ny6nXi3dEa4o_9OQbZTyMSV6ofoOf8MyDA=w36-h36-p-rp-mo-br100",
+      "s3_profile_picture": null,
+      "owner_responses": {
+        "en": {
+          "text": "¡Muchas gracias por dar tu opinión, Albert! Nos alegra saber que quedaste satisfecho con la atención recibida y que nuestro equipo pudo ayudarte de forma rápida y profesional. Agradecemos mucho tu recomendación y esperamos volver a ayudarte cuando lo necesites. ¡Un saludo!"
+        }
+      },
+      "created_date": "2026-10-21T16:57:29.555498+00:00",
+      "last_modified": "2026-10-21T16:57:29.555498+00:00",
+      "last_seen_session": 4,
+      "last_changed_session": 4,
+      "is_deleted": 0,
+      "content_hash": "f209f726b47cf553c163c0e78b16bd9a08da19f25724bf2f2e1895c5fbaa4aac",
+      "engagement_hash": "3502f347aa5be608142df0f4e3e657247bf2d15ea295a4c7dd8dd72d27216536",
+      "row_version": 1,
+      "sub_ratings": {},
+      "_review_text_raw": {
+        "en": "Muy recomendable, atención al cliente super rápido y muy profesional."
+      },
+      "_user_images_raw": [],
+      "_owner_responses_raw": {
+        "en": {
+          "text": "¡Muchas gracias por dar tu opinión, Albert! Nos alegra saber que quedaste satisfecho con la atención recibida y que nuestro equipo pudo ayudarte de forma rápida y profesional. Agradecemos mucho tu recomendación y esperamos volver a ayudarte cuando lo necesites. ¡Un saludo!"
+        }
+      }
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2paNGEwSkdaMjVTWDJsSWR6aDRlVmt5YTJaU1VYYxAB",
+      "place_id": "0x12a4a342f65a4a21:0x87f684e6873ef6fc",
+      "author": "adribe",
+      "rating": 5.0,
+      "review_text": {
+        "en": "Muy atentos y profesionales"
+      },
+      "review_date": "2026-07-23T16:57:29+00:00",
+      "raw_date": "Hace 3 meses",
+      "likes": 0,
+      "user_images": [],
+      "s3_images": null,
+      "profile_url": "https://www.google.com/maps/contrib/114453591727227104448/reviews?hl=es",
+      "profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXspNMM8uR45Mx93mw6iIN5-cPbFxZXWeZsZhbzDU2FJNmmy2sf=w36-h36-p-rp-mo-ba12-br100",
+      "s3_profile_picture": null,
+      "owner_responses": {
+        "en": {
+          "text": "¡Muchas gracias por tu reseña! Nos alegra saber que nuestra atención y profesionalidad estuvieron a la altura de tus expectativas. Ha sido un placer atenderte. ¡Un saludo!"
+        }
+      },
+      "created_date": "2026-10-21T16:57:29.435748+00:00",
+      "last_modified": "2026-10-21T16:57:29.435748+00:00",
+      "last_seen_session": 4,
+      "last_changed_session": 4,
+      "is_deleted": 0,
+      "content_hash": "96d9e1b127179490a969e2c7d857061ffff54f0d5734442c55899ae02ea4d755",
+      "engagement_hash": "12f5829cc5a69c32a95f61f5b3412838dffedd848a97e90fed72b2b1c3f79971",
+      "row_version": 1,
+      "sub_ratings": {},
+      "_review_text_raw": {
+        "en": "Muy atentos y profesionales"
+      },
+      "_user_images_raw": [],
+      "_owner_responses_raw": {
+        "en": {
+          "text": "¡Muchas gracias por tu reseña! Nos alegra saber que nuestra atención y profesionalidad estuvieron a la altura de tus expectativas. Ha sido un placer atenderte. ¡Un saludo!"
+        }
+      }
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT201a1dVUmpWM0pIUWxoWFZqbEJiSE14UldoME5sRRAB",
+      "place_id": "0x12a4a342f65a4a21:0x87f684e6873ef6fc",
+      "author": "Nana Sun",
+      "rating": 5.0,
+      "review_text": {
+        "en": "La veritat es que estem super contents amb el servei donat !! :)\n\nAquest matí vaig trucar-los perquè els meus pares volien posar un escut de seguretat a la porta de casa abans de marxar de vacances, i unes hores després ja estava tot instal·lat i fet, i la dona que ens ha atès super amable i propera i el tècnic que ens ho ha instal·lat tot també super agradable i professional\n\nMoltissimes gràcies per tot! No dubtarem a contactar amb vosaltres per a qualsevol altra cosa que necessitem :)"
+      },
+      "review_date": "2026-07-23T16:57:29+00:00",
+      "raw_date": "Hace 3 meses",
+      "likes": 0,
+      "user_images": [],
+      "s3_images": null,
+      "profile_url": "https://www.google.com/maps/contrib/113182839658193683196/reviews?hl=es",
+      "profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocLaQgKPbsSuFM7PTcvXtC0iMxgMoigHj9v5R9szoUTkeJBwylM=w36-h36-p-rp-mo-ba12-br100",
+      "s3_profile_picture": null,
+      "owner_responses": {
+        "en": {
+          "text": "Moltes gràcies per la vostra valoració! Ens alegra molt saber que els teus pares han quedat tant contents amb el servei i amb la instal·lació de l’escut de seguretat abans de marxar de vacances.\n\nPer nosaltres és molt important oferir un tracte proper i de confiança, tant en l’atenció com en la feina del nostre tècnic.\n\nMoltes gràcies per confiar en Cerrajería Merafex. Estarem encantats d’ajudar-vos sempre que ens necessiteu! 😊"
+        }
+      },
+      "created_date": "2026-10-21T16:57:29.316476+00:00",
+      "last_modified": "2026-10-21T16:57:29.316476+00:00",
+      "last_seen_session": 4,
+      "last_changed_session": 4,
+      "is_deleted": 0,
+      "content_hash": "a39952d7b795a86a5817b8efc59ed1e8c2dc3de4b1e24827278c9f1f71f96c55",
+      "engagement_hash": "abec1f077e39e882f80696dbdbc6535fb99ba308fc62bffb7a728f76ede0dbff",
+      "row_version": 1,
+      "sub_ratings": {},
+      "_review_text_raw": {
+        "en": "La veritat es que estem super contents amb el servei donat !! :)\n\nAquest matí vaig trucar-los perquè els meus pares volien posar un escut de seguretat a la porta de casa abans de marxar de vacances, i unes hores després ja estava tot instal·lat i fet, i la dona que ens ha atès super amable i propera i el tècnic que ens ho ha instal·lat tot també super agradable i professional\n\nMoltissimes gràcies per tot! No dubtarem a contactar amb vosaltres per a qualsevol altra cosa que necessitem :)"
+      },
+      "_user_images_raw": [],
+      "_owner_responses_raw": {
+        "en": {
+          "text": "Moltes gràcies per la vostra valoració! Ens alegra molt saber que els teus pares han quedat tant contents amb el servei i amb la instal·lació de l’escut de seguretat abans de marxar de vacances.\n\nPer nosaltres és molt important oferir un tracte proper i de confiança, tant en l’atenció com en la feina del nostre tècnic.\n\nMoltes gràcies per confiar en Cerrajería Merafex. Estarem encantats d’ajudar-vos sempre que ens necessiteu! 😊"
+        }
+      }
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT205WU9EWXpTVFpuZDJNd00zSnBSWEUzU214M1ZFRRAB",
+      "place_id": "0x12a4a342f65a4a21:0x87f684e6873ef6fc",
+      "author": "Ana Maria Plumed",
+      "rating": 5.0,
+      "review_text": {
+        "en": "Muy buen trabajo de pintura. Fueron puntuales, cuidadosos y dejaron un acabado impecable. Quedé muy satisfecha con el resultado. Totalmente recomendables."
+      },
+      "review_date": "2026-07-23T16:57:28+00:00",
+      "raw_date": "Hace 3 meses",
+      "likes": 0,
+      "user_images": [],
+      "s3_images": null,
+      "profile_url": "https://www.google.com/maps/contrib/116420341385348794980/reviews?hl=es",
+      "profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocINeW1WStvA4b3FqG9aunkzG6D-vq2Ts0DiHTZ9d7O9ixG4oA=w36-h36-p-rp-mo-br100",
+      "s3_profile_picture": null,
+      "owner_responses": {
+        "en": {
+          "text": "Muchas gracias por tu valoración Ana María. Nos alegra mucho saber que has quedado satisfecha con el trabajo de pintura realizado. 😊\n\nPara nosotros es muy importante cuidar cada detalle, desde la puntualidad y el trato durante el servicio hasta el acabado final.\n\nMuchas gracias por confiar en Cerrajería Merafex. Estaremos encantados de ayudarte de nuevo con cualquier trabajo de pintura, mantenimiento o mejora que necesites."
+        }
+      },
+      "created_date": "2026-10-21T16:57:29.039719+00:00",
+      "last_modified": "2026-10-21T16:57:29.039719+00:00",
+      "last_seen_session": 4,
+      "last_changed_session": 4,
+      "is_deleted": 0,
+      "content_hash": "a036ce076b965ac5d3a2ea51a1c44cc0044b0f333ad8b3cc5d31a6e97244b330",
+      "engagement_hash": "4800b2355855b552af665349e7330ff17f284c3fb56976038d0291005851a298",
+      "row_version": 1,
+      "sub_ratings": {},
+      "_review_text_raw": {
+        "en": "Muy buen trabajo de pintura. Fueron puntuales, cuidadosos y dejaron un acabado impecable. Quedé muy satisfecha con el resultado. Totalmente recomendables."
+      },
+      "_user_images_raw": [],
+      "_owner_responses_raw": {
+        "en": {
+          "text": "Muchas gracias por tu valoración Ana María. Nos alegra mucho saber que has quedado satisfecha con el trabajo de pintura realizado. 😊\n\nPara nosotros es muy importante cuidar cada detalle, desde la puntualidad y el trato durante el servicio hasta el acabado final.\n\nMuchas gracias por confiar en Cerrajería Merafex. Estaremos encantados de ayudarte de nuevo con cualquier trabajo de pintura, mantenimiento o mejora que necesites."
+        }
+      }
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pOWVVWVnlUVmwwTjFwbE1UZHpabTAwY0RCRGIxRRAB",
+      "place_id": "0x12a4a342f65a4a21:0x87f684e6873ef6fc",
+      "author": "Alex Sanz Husillos",
+      "rating": 5.0,
+      "review_text": {
+        "en": "Rapidez y trato genial!"
+      },
+      "review_date": "2026-07-23T16:57:28+00:00",
+      "raw_date": "Hace 3 meses",
+      "likes": 0,
+      "user_images": [],
+      "s3_images": null,
+      "profile_url": "https://www.google.com/maps/contrib/113457891895557009238/reviews?hl=es",
+      "profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVOjohIdD3sF4a0hYsBsAiH4eDnAf9auSMdrTC4gGJtpyNmIqbgng=w36-h36-p-rp-mo-br100",
+      "s3_profile_picture": null,
+      "owner_responses": {
+        "en": {
+          "text": "¡Muchas gracias por tu valoración, Alex!  Nos alegra mucho saber que quedaste satisfecho con el servicio y el trato recibido.\nHa sido un placer ayudarte. Gracias por confiar en Cerrajería Merafex, estaremos encantados de atenderte de nuevo cuando lo necesites."
+        }
+      },
+      "created_date": "2026-10-21T16:57:28.888026+00:00",
+      "last_modified": "2026-10-21T16:57:28.888026+00:00",
+      "last_seen_session": 4,
+      "last_changed_session": 4,
+      "is_deleted": 0,
+      "content_hash": "7d939bb70ef8a86dc2b5103a576555642df5224a125c150ceabc1deac06e1d90",
+      "engagement_hash": "157de53321d0d34366157320c5b1b2b52c67c507a639c36424bd1fe134d688d7",
+      "row_version": 1,
+      "sub_ratings": {},
+      "_review_text_raw": {
+        "en": "Rapidez y trato genial!"
+      },
+      "_user_images_raw": [],
+      "_owner_responses_raw": {
+        "en": {
+          "text": "¡Muchas gracias por tu valoración, Alex!  Nos alegra mucho saber que quedaste satisfecho con el servicio y el trato recibido.\nHa sido un placer ayudarte. Gracias por confiar en Cerrajería Merafex, estaremos encantados de atenderte de nuevo cuando lo necesites."
+        }
+      }
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xwTFJuQk9UMDFNTlVacE1tbDVjRTQ0TUZGaVoxRRAB",
+      "place_id": "0x12a4a342f65a4a21:0x87f684e6873ef6fc",
+      "author": "Yolanda Husillos",
+      "rating": 5.0,
+      "review_text": {
+        "en": "Muy satisfecha, servicio rápido y buenos profesionales"
+      },
+      "review_date": "2026-07-23T16:57:28+00:00",
+      "raw_date": "Hace 3 meses",
+      "likes": 0,
+      "user_images": [],
+      "s3_images": null,
+      "profile_url": "https://www.google.com/maps/contrib/104803927592587514658/reviews?hl=es",
+      "profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocIeCAMc3_-Ea5UzJood2ym3zVPgHNDyFFCxqxlWfDax9ubLMQ=w36-h36-p-rp-mo-br100",
+      "s3_profile_picture": null,
+      "owner_responses": {
+        "en": {
+          "text": "¡Muchas gracias por tu valoración, Yolanda!  Nos alegra saber que quedaste muy satisfecha con el servicio y con el trato recibido."
+        }
+      },
+      "created_date": "2026-10-21T16:57:28.770447+00:00",
+      "last_modified": "2026-10-21T16:57:28.770447+00:00",
+      "last_seen_session": 4,
+      "last_changed_session": 4,
+      "is_deleted": 0,
+      "content_hash": "c4b6799c5211f9b06b2a306b0766225af561ecb91dd7e950da8daf6e00e3cf69",
+      "engagement_hash": "5195fffc22adc28dd16bec389c3e4703647e21b6c5e29b9dcccd703c671a84bf",
+      "row_version": 1,
+      "sub_ratings": {},
+      "_review_text_raw": {
+        "en": "Muy satisfecha, servicio rápido y buenos profesionales"
+      },
+      "_user_images_raw": [],
+      "_owner_responses_raw": {
+        "en": {
+          "text": "¡Muchas gracias por tu valoración, Yolanda!  Nos alegra saber que quedaste muy satisfecha con el servicio y con el trato recibido."
+        }
+      }
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21aRlYyWnhkWFU0VTJVMExVeG9lalZsVVdocWNYYxAB",
+      "place_id": "0x12a4a342f65a4a21:0x87f684e6873ef6fc",
+      "author": "Rosa Ruf",
+      "rating": 5.0,
+      "review_text": {
+        "en": "Muy contenta con el servicio. Son rápidos y muy profesionales y sobretodo, formales, cosa que se agradece hoy en día."
+      },
+      "review_date": "2026-07-23T16:57:28+00:00",
+      "raw_date": "Hace 3 meses",
+      "likes": 0,
+      "user_images": [],
+      "s3_images": null,
+      "profile_url": "https://www.google.com/maps/contrib/109418958195482637232/reviews?hl=es",
+      "profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJp6YlpWnxRlGk2UHjB_lFdQH5_TRNsxNLZTqBPs3hEE8USMQ=w36-h36-p-rp-mo-br100",
+      "s3_profile_picture": null,
+      "owner_responses": {
+        "en": {
+          "text": "Rosa, muchas gracias por tus palabras. 😊 Nos alegra mucho saber que has quedado tan contenta con el servicio y con la forma de trabajar de nuestro equipo. Ha sido un placer ayudarte.…"
+        }
+      },
+      "created_date": "2026-10-21T16:57:28.635745+00:00",
+      "last_modified": "2026-10-21T16:57:28.635745+00:00",
+      "last_seen_session": 4,
+      "last_changed_session": 4,
+      "is_deleted": 0,
+      "content_hash": "baed20f1d32cc338c516a514a38a6706eb83c846da3f384ac1fd5c54250dd559",
+      "engagement_hash": "b712482ae0b3e059466926d4268e3cb3ffd6e6a0e8739469e9a24903bd50a984",
+      "row_version": 1,
+      "sub_ratings": {},
+      "_review_text_raw": {
+        "en": "Muy contenta con el servicio. Son rápidos y muy profesionales y sobretodo, formales, cosa que se agradece hoy en día."
+      },
+      "_user_images_raw": [],
+      "_owner_responses_raw": {
+        "en": {
+          "text": "Rosa, muchas gracias por tus palabras. 😊 Nos alegra mucho saber que has quedado tan contenta con el servicio y con la forma de trabajar de nuestro equipo. Ha sido un placer ayudarte.…"
+        }
+      }
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pac2NHRjVVRzVtYTNkQ1UxSmFNV2xOZUhCeFltYxAB",
+      "place_id": "0x12a4a342f65a4a21:0x87f684e6873ef6fc",
+      "author": "Mar Luque Sánchez",
+      "rating": 5.0,
+      "review_text": {
+        "en": "Genial, un servicio excelente y súper amables, sin duda un acierto 💕…"
+      },
+      "review_date": "2026-08-22T16:57:28+00:00",
+      "raw_date": "Hace 2 meses",
+      "likes": 0,
+      "user_images": [],
+      "s3_images": null,
+      "profile_url": "https://www.google.com/maps/contrib/105556173149424082822/reviews?hl=es",
+      "profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWGUKYzzkhazl_wnboHqb9JIqyesOXMLi-ezT3ID5X-ZcevLTYZ=w36-h36-p-rp-mo-br100",
+      "s3_profile_picture": null,
+      "owner_responses": {
+        "en": {
+          "text": "Nos encanta saber que ha sido un acierto contar con nosotros. Gracias por la confianza, estaremos encantados de ayudarte siempre que lo necesites, Mar😊…"
+        }
+      },
+      "created_date": "2026-10-21T16:57:28.517934+00:00",
+      "last_modified": "2026-10-21T16:57:28.517934+00:00",
+      "last_seen_session": 4,
+      "last_changed_session": 4,
+      "is_deleted": 0,
+      "content_hash": "0e7ae44ff3d54f0811a7fc481ca64d140285e30191f2a59a2f6ae7366542ca97",
+      "engagement_hash": "fbf3fc943cad251d08efaf08a7455e87ad6c53fa1733866cfdebe7d1656a7d38",
+      "row_version": 1,
+      "sub_ratings": {},
+      "_review_text_raw": {
+        "en": "Genial, un servicio excelente y súper amables, sin duda un acierto 💕…"
+      },
+      "_user_images_raw": [],
+      "_owner_responses_raw": {
+        "en": {
+          "text": "Nos encanta saber que ha sido un acierto contar con nosotros. Gracias por la confianza, estaremos encantados de ayudarte siempre que lo necesites, Mar😊…"
+        }
+      }
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21WT2VrNUNOVVZxYm5kR1FtdFFkbTlyYUd3d05rRRAB",
+      "place_id": "0x12a4a342f65a4a21:0x87f684e6873ef6fc",
+      "author": "Aya Ben Moumen",
+      "rating": 5.0,
+      "review_text": {
+        "en": "Buen servicio,"
+      },
+      "review_date": "2026-08-22T16:57:28+00:00",
+      "raw_date": "Hace 2 meses",
+      "likes": 0,
+      "user_images": [],
+      "s3_images": null,
+      "profile_url": "https://www.google.com/maps/contrib/105904179686163565259/reviews?hl=es",
+      "profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVQln6Hu1La2nekgy-d6ifVRtxhnO6k37Y-6EGJmxbhTSu2xLigLQ=w36-h36-p-rp-mo-br100",
+      "s3_profile_picture": null,
+      "owner_responses": {
+        "en": {
+          "text": "Aya, muchas gracias por tu valoración. Nos alegra saber que quedaste satisfecha con el servicio."
+        }
+      },
+      "created_date": "2026-10-21T16:57:28.396849+00:00",
+      "last_modified": "2026-10-21T16:57:28.396849+00:00",
+      "last_seen_session": 4,
+      "last_changed_session": 4,
+      "is_deleted": 0,
+      "content_hash": "e4e348fc406514367b445d576260edd181091448d7c619871c4a7202816e56fc",
+      "engagement_hash": "1e61ce406eddb05b792c16493816ec577b5a8092353c6a0a62946e56785d4ca2",
+      "row_version": 1,
+      "sub_ratings": {},
+      "_review_text_raw": {
+        "en": "Buen servicio,"
+      },
+      "_user_images_raw": [],
+      "_owner_responses_raw": {
+        "en": {
+          "text": "Aya, muchas gracias por tu valoración. Nos alegra saber que quedaste satisfecha con el servicio."
+        }
+      }
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pCYVRqbDZObTVVWWxwNVZIcHNORjlMUW1od1ZrRRAB",
+      "place_id": "0x12a4a342f65a4a21:0x87f684e6873ef6fc",
+      "author": "Daniela Molina Borderia",
+      "rating": 5.0,
+      "review_text": {
+        "en": "servicio impecable, muy amables y profesionales. Todo perfecto! 👌🏻…"
+      },
+      "review_date": "2026-08-22T16:57:27+00:00",
+      "raw_date": "Hace 2 meses",
+      "likes": 0,
+      "user_images": [],
+      "s3_images": null,
+      "profile_url": "https://www.google.com/maps/contrib/104030675778446655381/reviews?hl=es",
+      "profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVhaV_CaZPP1kiNhKfl1QJ38YLJMFkDpuweoR0VSGyn9ZybPeI=w36-h36-p-rp-mo-br100",
+      "s3_profile_picture": null,
+      "owner_responses": {
+        "en": {
+          "text": "Daniela, muchas gracias por tu comentario. 😊 Nos alegra saber que todo fue perfecto y que quedaste contenta con el servicio y el trato recibido.\nIntentamos siempre que nuestros clientes se sientan bien atendidos y acompañados durante todo el proceso. Ha sido un placer ayudarte…"
+        }
+      },
+      "created_date": "2026-10-21T16:57:27.290895+00:00",
+      "last_modified": "2026-10-21T16:57:27.290895+00:00",
+      "last_seen_session": 4,
+      "last_changed_session": 4,
+      "is_deleted": 0,
+      "content_hash": "95a16e8a8dac9e3a364ac30b1de6d35d75d5c655e16ce9b3ed22e4510900038d",
+      "engagement_hash": "7e3bf3e2ca89acb9b8532cfe80924e27a66d02064e49043b8877b29b41366c32",
+      "row_version": 1,
+      "sub_ratings": {},
+      "_review_text_raw": {
+        "en": "servicio impecable, muy amables y profesionales. Todo perfecto! 👌🏻…"
+      },
+      "_user_images_raw": [],
+      "_owner_responses_raw": {
+        "en": {
+          "text": "Daniela, muchas gracias por tu comentario. 😊 Nos alegra saber que todo fue perfecto y que quedaste contenta con el servicio y el trato recibido.\nIntentamos siempre que nuestros clientes se sientan bien atendidos y acompañados durante todo el proceso. Ha sido un placer ayudarte…"
+        }
+      }
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pWNmRrWTBlRWxuUjBsclMwOUtTbmxhYlhCa01GRRAB",
+      "place_id": "0x12a4a342f65a4a21:0x87f684e6873ef6fc",
+      "author": "laia arcos",
+      "rating": 5.0,
+      "review_text": {
+        "en": "Servicio excelente, muy recomendado"
+      },
+      "review_date": "2026-08-22T16:57:27+00:00",
+      "raw_date": "Hace 2 meses",
+      "likes": 0,
+      "user_images": [],
+      "s3_images": null,
+      "profile_url": "https://www.google.com/maps/contrib/117972734766540297767/reviews?hl=es",
+      "profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUhDhkjmV_JyvWtrshzsrBXeLT58VGd8Av-QWkAQ1f7Zh3xPcZy=w36-h36-p-rp-mo-ba12-br100",
+      "s3_profile_picture": null,
+      "owner_responses": {
+        "en": {
+          "text": "Laia, muchas gracias por tu recomendación. Nos alegra saber que quedaste satisfecha con el servicio. Un saludo"
+        }
+      },
+      "created_date": "2026-10-21T16:57:27.168232+00:00",
+      "last_modified": "2026-10-21T16:57:27.168232+00:00",
+      "last_seen_session": 4,
+      "last_changed_session": 4,
+      "is_deleted": 0,
+      "content_hash": "f5ac6d814592ceb3a53a8adc26b49fba6e1c4a482c55ef6fddae664b912466b8",
+      "engagement_hash": "9905de681be04a97ec7eacfcbc04dcab884f812ad7ae5e7f93284589be166776",
+      "row_version": 1,
+      "sub_ratings": {},
+      "_review_text_raw": {
+        "en": "Servicio excelente, muy recomendado"
+      },
+      "_user_images_raw": [],
+      "_owner_responses_raw": {
+        "en": {
+          "text": "Laia, muchas gracias por tu recomendación. Nos alegra saber que quedaste satisfecha con el servicio. Un saludo"
+        }
+      }
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xsdFFVeFpXV1JTWnpKQlluVXpXVU5hY0U1cmRHYxAB",
+      "place_id": "0x12a4a342f65a4a21:0x87f684e6873ef6fc",
+      "author": "Maksym Derezyuk",
+      "rating": 5.0,
+      "review_text": {
+        "en": "Son super amables, super rápidos en su trabajo y en general geniales. Recomendadisimos, 10/10!!!"
+      },
+      "review_date": "2026-08-22T16:57:26+00:00",
+      "raw_date": "Hace 2 meses",
+      "likes": 0,
+      "user_images": [],
+      "s3_images": null,
+      "profile_url": "https://www.google.com/maps/contrib/114046481137406261191/reviews?hl=es",
+      "profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjU-H0A8WNd5UVWTl0fmH4ZJSiff0dAOUeWFlO1oD3CifOhWgtw=w36-h36-p-rp-mo-ba12-br100",
+      "s3_profile_picture": null,
+      "owner_responses": {
+        "en": {
+          "text": "Maksym, ¡qué alegría leer tu comentario! 😊 Nos encanta saber que te has llevado esa impresión de nuestro trabajo.\nIntentamos que cada servicio vaya acompañado de rapidez, buen trato y ganas de hacerlo bien. ¡Un placer ayudarte!…"
+        }
+      },
+      "created_date": "2026-10-21T16:57:27.059332+00:00",
+      "last_modified": "2026-10-21T16:57:27.059332+00:00",
+      "last_seen_session": 4,
+      "last_changed_session": 4,
+      "is_deleted": 0,
+      "content_hash": "7a834bedc6759025ff5900cc5f84d01061650e2f27a7cfe72bdf65902a5494e5",
+      "engagement_hash": "e49025c828c40329d62b1e47083bfc04202e8b9ace8e7e11a105ac25f85345d7",
+      "row_version": 1,
+      "sub_ratings": {},
+      "_review_text_raw": {
+        "en": "Son super amables, super rápidos en su trabajo y en general geniales. Recomendadisimos, 10/10!!!"
+      },
+      "_user_images_raw": [],
+      "_owner_responses_raw": {
+        "en": {
+          "text": "Maksym, ¡qué alegría leer tu comentario! 😊 Nos encanta saber que te has llevado esa impresión de nuestro trabajo.\nIntentamos que cada servicio vaya acompañado de rapidez, buen trato y ganas de hacerlo bien. ¡Un placer ayudarte!…"
+        }
+      }
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2poV1FrcDFOVGh5YkU1dldWWkxUMGxDYm5SeWRWRRAB",
+      "place_id": "0x12a4a342f65a4a21:0x87f684e6873ef6fc",
+      "author": "Noa Roa Bertola",
+      "rating": 5.0,
+      "review_text": {
+        "en": "recomiendo mucho este sitio, gran servicio"
+      },
+      "review_date": "2026-08-22T16:57:26+00:00",
+      "raw_date": "Hace 2 meses",
+      "likes": 0,
+      "user_images": [],
+      "s3_images": null,
+      "profile_url": "https://www.google.com/maps/contrib/115688076801114100638/reviews?hl=es",
+      "profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjU8gqCEcfpMbLVJVpU-Hb-5fPwoDFOXNPEVD1Z8UmexWCeh4Ar_hA=w36-h36-p-rp-mo-br100",
+      "s3_profile_picture": null,
+      "owner_responses": {
+        "en": {
+          "text": "Noa, ¡qué bien leer que nos recomiendas!  Muchas gracias por compartir tu experiencia.\nNos encanta saber que el servicio estuvo a la altura de lo esperado. Seguiremos trabajando para ofrecer siempre una atención cercana y de calidad.\n¡Un placer haberte ayudado!"
+        }
+      },
+      "created_date": "2026-10-21T16:57:26.934946+00:00",
+      "last_modified": "2026-10-21T16:57:26.934946+00:00",
+      "last_seen_session": 4,
+      "last_changed_session": 4,
+      "is_deleted": 0,
+      "content_hash": "312645ec2418a854673a2ea76f56bfa80456d4799d1028abc9f770d468e457fa",
+      "engagement_hash": "828076e59b3e09bea26df932faadb82c246a0317ca1646cbabaa0f560a6bdfb3",
+      "row_version": 1,
+      "sub_ratings": {},
+      "_review_text_raw": {
+        "en": "recomiendo mucho este sitio, gran servicio"
+      },
+      "_user_images_raw": [],
+      "_owner_responses_raw": {
+        "en": {
+          "text": "Noa, ¡qué bien leer que nos recomiendas!  Muchas gracias por compartir tu experiencia.\nNos encanta saber que el servicio estuvo a la altura de lo esperado. Seguiremos trabajando para ofrecer siempre una atención cercana y de calidad.\n¡Un placer haberte ayudado!"
+        }
+      }
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tsZmRra3phV2hPUWxjd2FIbExTRXhpY0RGdU9IYxAB",
+      "place_id": "0x12a4a342f65a4a21:0x87f684e6873ef6fc",
+      "author": "Carmen Puch Valle",
+      "rating": 5.0,
+      "review_text": {
+        "en": "Servicio ejemplar en cuanto a trato, precio y gestión!! Muy recomendables!!"
+      },
+      "review_date": "2026-08-22T16:57:26+00:00",
+      "raw_date": "Hace 2 meses",
+      "likes": 1,
+      "user_images": [],
+      "s3_images": null,
+      "profile_url": "https://www.google.com/maps/contrib/109861410825623757654/reviews?hl=es",
+      "profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXcOfY_7XId6LS3HS3bH653fGsRr1ZVDLDxFDcOrPUAurLX94o5=w36-h36-p-rp-mo-br100",
+      "s3_profile_picture": null,
+      "owner_responses": {
+        "en": {
+          "text": "Carmen, muchas gracias por tus palabras. Nos alegra mucho saber que has quedado tan satisfecha con la atención recibida, la gestión y el servicio realizado.\nComentarios así nos animan a seguir cuidando cada detalle y ofreciendo un trato cercano a nuestros clientes.\nHa sido un placer ayudarte. Quedamos a tu disposición siempre que nos necesites. 😊"
+        }
+      },
+      "created_date": "2026-10-21T16:57:26.773682+00:00",
+      "last_modified": "2026-10-21T16:57:26.773682+00:00",
+      "last_seen_session": 4,
+      "last_changed_session": 4,
+      "is_deleted": 0,
+      "content_hash": "fcd4cbece17542ecb513da1c45c94e2a082b8e986c49d189105cc2725e1cd3d9",
+      "engagement_hash": "f2645538948b240177f4bb6151042912ada2f6f50931c14a28e5fdb953cc9050",
+      "row_version": 1,
+      "sub_ratings": {},
+      "_review_text_raw": {
+        "en": "Servicio ejemplar en cuanto a trato, precio y gestión!! Muy recomendables!!"
+      },
+      "_user_images_raw": [],
+      "_owner_responses_raw": {
+        "en": {
+          "text": "Carmen, muchas gracias por tus palabras. Nos alegra mucho saber que has quedado tan satisfecha con la atención recibida, la gestión y el servicio realizado.\nComentarios así nos animan a seguir cuidando cada detalle y ofreciendo un trato cercano a nuestros clientes.\nHa sido un placer ayudarte. Quedamos a tu disposición siempre que nos necesites. 😊"
+        }
+      }
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xZNFdWUmFjVUZWTTJ4T1dqSlVRWFptTjI5M05VRRAB",
+      "place_id": "0x12a4a342f65a4a21:0x87f684e6873ef6fc",
+      "author": "Biby",
+      "rating": 5.0,
+      "review_text": {
+        "en": "Todo ha ido perfecto, gestionamos un cambio de bombines con la empresa y en todo momento fueron muy cercanos, transparentes y resolutivos! Mil gracias"
+      },
+      "review_date": "2026-08-22T16:57:26+00:00",
+      "raw_date": "Hace 2 meses",
+      "likes": 0,
+      "user_images": [],
+      "s3_images": null,
+      "profile_url": "https://www.google.com/maps/contrib/100345705118947910387/reviews?hl=es",
+      "profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocLq1Htd6Hc7idmGP3h0pSrFwgTkCWGOEs8ZM8cwjnvk5R-JHjn1=w36-h36-p-rp-mo-br100",
+      "s3_profile_picture": null,
+      "owner_responses": {
+        "en": {
+          "text": "Biby, ¡mil gracias por tu comentario! 😊 Nos hace mucha ilusión saber que todo fue tan bien y que te sentiste acompañada durante todo el proceso del cambio de tus dos bombines.\nGracias por destacar nuestro trato. Ha sido un placer ayudarte y aquí nos tienes para lo que necesites. 💙"
+        }
+      },
+      "created_date": "2026-10-21T16:57:26.626706+00:00",
+      "last_modified": "2026-10-21T16:57:26.626706+00:00",
+      "last_seen_session": 4,
+      "last_changed_session": 4,
+      "is_deleted": 0,
+      "content_hash": "5987d6d3425bed7f2565736484a25ee7931631e7486738308ad3cf86299caff2",
+      "engagement_hash": "800b2c3985d78806c4472dc424edbcf86d6bba6397c501e3fe39c9c577a36c2e",
+      "row_version": 1,
+      "sub_ratings": {},
+      "_review_text_raw": {
+        "en": "Todo ha ido perfecto, gestionamos un cambio de bombines con la empresa y en todo momento fueron muy cercanos, transparentes y resolutivos! Mil gracias"
+      },
+      "_user_images_raw": [],
+      "_owner_responses_raw": {
+        "en": {
+          "text": "Biby, ¡mil gracias por tu comentario! 😊 Nos hace mucha ilusión saber que todo fue tan bien y que te sentiste acompañada durante todo el proceso del cambio de tus dos bombines.\nGracias por destacar nuestro trato. Ha sido un placer ayudarte y aquí nos tienes para lo que necesites. 💙"
+        }
+      }
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25OSFpUZE5TR1JWTVVaSlMwY3plSEJOTTBaWlEyYxAB",
+      "place_id": "0x12a4a342f65a4a21:0x87f684e6873ef6fc",
+      "author": "Charo Garcia Ruiz",
+      "rating": 5.0,
+      "review_text": {
+        "en": "Me han instalado dos persianas y he quedado muy contenta con el resultado y con el trato. Han sido profesionales, rápidos y muy amables. Totalmente recomendables."
+      },
+      "review_date": "2026-08-22T16:57:26+00:00",
+      "raw_date": "Hace 2 meses",
+      "likes": 0,
+      "user_images": [],
+      "s3_images": null,
+      "profile_url": "https://www.google.com/maps/contrib/116665200366098378055/reviews?hl=es",
+      "profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocKOL1jKElauFjqXZL6TcRKE0zkBd0L71yDyWd1UVUzwTkMB1A=w36-h36-p-rp-mo-br100",
+      "s3_profile_picture": null,
+      "owner_responses": {
+        "en": {
+          "text": "Hola, Sra Charo!  Tal y como ya le comentamos por mensaje, ha sido un placer atenderle. Muchísimas gracias por confiar en nosotros y por dedicar un momento a compartir su experiencia. ¡Que disfrute de sus nuevas persianas y aquí nos tiene para lo que necesite!"
+        }
+      },
+      "created_date": "2026-10-21T16:57:26.473850+00:00",
+      "last_modified": "2026-10-21T16:57:26.473850+00:00",
+      "last_seen_session": 4,
+      "last_changed_session": 4,
+      "is_deleted": 0,
+      "content_hash": "4e54b0b7557ab59645c1df164da339caa0fbb92ca4684fccc6798ae47ccab2aa",
+      "engagement_hash": "4d244a1c3e2be930b39a56a564d6c933b14e9f1f41f5fffd29c1568c9b67f467",
+      "row_version": 1,
+      "sub_ratings": {},
+      "_review_text_raw": {
+        "en": "Me han instalado dos persianas y he quedado muy contenta con el resultado y con el trato. Han sido profesionales, rápidos y muy amables. Totalmente recomendables."
+      },
+      "_user_images_raw": [],
+      "_owner_responses_raw": {
+        "en": {
+          "text": "Hola, Sra Charo!  Tal y como ya le comentamos por mensaje, ha sido un placer atenderle. Muchísimas gracias por confiar en nosotros y por dedicar un momento a compartir su experiencia. ¡Que disfrute de sus nuevas persianas y aquí nos tiene para lo que necesite!"
+        }
+      }
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xKTFMzZG5SRlUzTm5GUFZFNURkRFYxTmtKVFZGRRAB",
+      "place_id": "0x12a4a342f65a4a21:0x87f684e6873ef6fc",
+      "author": "Lily Lili",
+      "rating": 5.0,
+      "review_text": {
+        "en": "Muy buen trabajo. Necesitaba cambiar el bombín de la puerta principal y fueron muy rápidos y limpios. Me dieron buenas recomendaciones sobre seguridad y el trato fue inmejorable. Muy buen precio comparado con otros lugares.\nGracias."
+      },
+      "review_date": "2026-08-22T16:57:26+00:00",
+      "raw_date": "Hace 2 meses",
+      "likes": 0,
+      "user_images": [],
+      "s3_images": null,
+      "profile_url": "https://www.google.com/maps/contrib/105675953211248122109/reviews?hl=es",
+      "profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUNGxP5W6PciqLkGtcoihuPiUb88n3MEp3XH3YJMbfRi2AJDZDi9w=w36-h36-p-rp-mo-br100",
+      "s3_profile_picture": null,
+      "owner_responses": {
+        "en": {
+          "text": "Muchas gracias, Lily! 😊 Nos alegra mucho saber que quedaste contenta con la instalación del bombin y, sobre todo con el trato. Intentamos siempre hacer las cosas bien, rápido y dejando todo limpio, además de aconsejaros sobre la opción que mejor se adapte a lo que necesitáis\n\nGracias por confiar en nosotros y por tomarte el tiempo de dejarnos tu reseña!!!"
+        }
+      },
+      "created_date": "2026-10-21T16:57:26.358642+00:00",
+      "last_modified": "2026-10-21T16:57:26.358642+00:00",
+      "last_seen_session": 4,
+      "last_changed_session": 4,
+      "is_deleted": 0,
+      "content_hash": "c1d268560f8693b784d7219900d46c8cdfa74cc2509edd95d6ac7f3c40e1f831",
+      "engagement_hash": "a4a788b15fa90c61c126f0774b04afcda094df871b3207dea29a35acc276c215",
+      "row_version": 1,
+      "sub_ratings": {},
+      "_review_text_raw": {
+        "en": "Muy buen trabajo. Necesitaba cambiar el bombín de la puerta principal y fueron muy rápidos y limpios. Me dieron buenas recomendaciones sobre seguridad y el trato fue inmejorable. Muy buen precio comparado con otros lugares.\nGracias."
+      },
+      "_user_images_raw": [],
+      "_owner_responses_raw": {
+        "en": {
+          "text": "Muchas gracias, Lily! 😊 Nos alegra mucho saber que quedaste contenta con la instalación del bombin y, sobre todo con el trato. Intentamos siempre hacer las cosas bien, rápido y dejando todo limpio, además de aconsejaros sobre la opción que mejor se adapte a lo que necesitáis\n\nGracias por confiar en nosotros y por tomarte el tiempo de dejarnos tu reseña!!!"
+        }
+      }
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tKTmNsUkNXVXBhYTA5TU9XOTZUa1o2YldadFYxRRAB",
+      "place_id": "0x12a4a342f65a4a21:0x87f684e6873ef6fc",
+      "author": "Hector Muñoz Garcia",
+      "rating": 5.0,
+      "review_text": {
+        "en": "La atención al cliente,muy amable tanto al teléfono como el cerrajero que vino. No podía entrar en casa porque la llave no funcionaba, vinieron y me lo solucionaron el mismo día. Muy recomendables."
+      },
+      "review_date": "2026-08-22T16:57:26+00:00",
+      "raw_date": "Hace 2 meses",
+      "likes": 0,
+      "user_images": [],
+      "s3_images": null,
+      "profile_url": "https://www.google.com/maps/contrib/102770165248814065684/reviews?hl=es",
+      "profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjViMUPK0i7fiWSoTCdiTT1a-KwhJEeLjBKzaNO1AFVDOykVpMlR=w36-h36-p-rp-mo-br100",
+      "s3_profile_picture": null,
+      "owner_responses": {
+        "en": {
+          "text": "Muchas gracias, Héctor! Nos alegra saber que pudimos solucionarlo el mismo día y que tanto la atención telefónica como el trabajo del técnico estuvieron a la altura. 😊\n\nGracias por recomendarnos y por confiar en nosotros. Un placer haberte ayudado!"
+        }
+      },
+      "created_date": "2026-10-21T16:57:26.210184+00:00",
+      "last_modified": "2026-10-21T16:57:26.210184+00:00",
+      "last_seen_session": 4,
+      "last_changed_session": 4,
+      "is_deleted": 0,
+      "content_hash": "4d3c1b1da2da27d5ca416de20389f155c33bc2e0eeef1097589618c68b7c783b",
+      "engagement_hash": "0a9d2a0a7d628c84319a36d663b2d3d3d923cf8ae20e9e4781a43ddc638ebd3a",
+      "row_version": 1,
+      "sub_ratings": {},
+      "_review_text_raw": {
+        "en": "La atención al cliente,muy amable tanto al teléfono como el cerrajero que vino. No podía entrar en casa porque la llave no funcionaba, vinieron y me lo solucionaron el mismo día. Muy recomendables."
+      },
+      "_user_images_raw": [],
+      "_owner_responses_raw": {
+        "en": {
+          "text": "Muchas gracias, Héctor! Nos alegra saber que pudimos solucionarlo el mismo día y que tanto la atención telefónica como el trabajo del técnico estuvieron a la altura. 😊\n\nGracias por recomendarnos y por confiar en nosotros. Un placer haberte ayudado!"
+        }
+      }
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xkaFVuYzBiMVZZVFZaSlpFZEVkbVJRVG5JM01XYxAB",
+      "place_id": "0x12a4a342f65a4a21:0x87f684e6873ef6fc",
+      "author": "Alexdit Der",
+      "rating": 5.0,
+      "review_text": {
+        "en": "Gente profesional, efectiva y veloz, super contento con el servicio."
+      },
+      "review_date": "2026-08-22T16:57:25+00:00",
+      "raw_date": "Hace 2 meses",
+      "likes": 0,
+      "user_images": [],
+      "s3_images": null,
+      "profile_url": "https://www.google.com/maps/contrib/100930880824390754985/reviews?hl=es",
+      "profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXOkzjnOP94lM0PyPKcnvK-dY19V2bKpYJZotJttHI_15zoOaFt=w36-h36-p-rp-mo-br100",
+      "s3_profile_picture": null,
+      "owner_responses": {
+        "en": {
+          "text": "Muchas gracias, Alex!! Nos alegra mucho saber que quedaste tan contento con el servicio 😊 Nos gusta trabajar de forma rápida y profesional, así que comentarios como el tuyo nos animan mucho. Esperamos volver a ayudarte cuando lo necesites!…"
+        }
+      },
+      "created_date": "2026-10-21T16:57:25.151109+00:00",
+      "last_modified": "2026-10-21T16:57:25.151109+00:00",
+      "last_seen_session": 4,
+      "last_changed_session": 4,
+      "is_deleted": 0,
+      "content_hash": "98a645e5ea30099fb6bfd146c8b4996efb08d61ae2a3483888f3116c5868a0c0",
+      "engagement_hash": "fafe2d763e9d74c4a04e6515436b5ba91c79a33026534ca4d1cdf719c41e60ed",
+      "row_version": 1,
+      "sub_ratings": {},
+      "_review_text_raw": {
+        "en": "Gente profesional, efectiva y veloz, super contento con el servicio."
+      },
+      "_user_images_raw": [],
+      "_owner_responses_raw": {
+        "en": {
+          "text": "Muchas gracias, Alex!! Nos alegra mucho saber que quedaste tan contento con el servicio 😊 Nos gusta trabajar de forma rápida y profesional, así que comentarios como el tuyo nos animan mucho. Esperamos volver a ayudarte cuando lo necesites!…"
+        }
+      }
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xneVdrSlNkbTVZVlhsM1prTTBWRXB3WjNoV04zYxAB",
+      "place_id": "0x12a4a342f65a4a21:0x87f684e6873ef6fc",
+      "author": "Javier Padilla",
+      "rating": 5.0,
+      "review_text": {
+        "en": "Me cambiaron la cerradura y son excelentes con el trato y muy buenos trabajadores no les doy 5 estrellas sino10"
+      },
+      "review_date": "2026-08-22T16:57:24+00:00",
+      "raw_date": "Hace 2 meses",
+      "likes": 0,
+      "user_images": [],
+      "s3_images": null,
+      "profile_url": "https://www.google.com/maps/contrib/114215522261658594804/reviews?hl=es",
+      "profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJK0wBlecleAPZ7Xd5_D7DppsEkLlkAm104VW1oLbvdPRv7_A=w36-h36-p-rp-mo-br100",
+      "s3_profile_picture": null,
+      "owner_responses": {
+        "en": {
+          "text": "Nos alegra muchísimo saber que quedaste tan contento, Javier, tanto con el trabajo como con el trato recibido. Comentarios así nos dan mucha energía para seguir trabajando con la misma dedicación. Gracias por recomendarnos y por esas 10 estrellas!! 😊…"
+        }
+      },
+      "created_date": "2026-10-21T16:57:25.019207+00:00",
+      "last_modified": "2026-10-21T16:57:25.019207+00:00",
+      "last_seen_session": 4,
+      "last_changed_session": 4,
+      "is_deleted": 0,
+      "content_hash": "d1ac97ad327be10acae40e82fbe1f008d36745fcc2f5b713d5b2f0c7f65e6b78",
+      "engagement_hash": "047c98d76ed7c65c3a390fe430744c58c76391f1a62e1775cc597e38d4e59907",
+      "row_version": 1,
+      "sub_ratings": {},
+      "_review_text_raw": {
+        "en": "Me cambiaron la cerradura y son excelentes con el trato y muy buenos trabajadores no les doy 5 estrellas sino10"
+      },
+      "_user_images_raw": [],
+      "_owner_responses_raw": {
+        "en": {
+          "text": "Nos alegra muchísimo saber que quedaste tan contento, Javier, tanto con el trabajo como con el trato recibido. Comentarios así nos dan mucha energía para seguir trabajando con la misma dedicación. Gracias por recomendarnos y por esas 10 estrellas!! 😊…"
+        }
+      }
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pRNU1ERlFMWGh6WkZZMlZYVjFjMFpsTmtaMFpsRRAB",
+      "place_id": "0x12a4a342f65a4a21:0x87f684e6873ef6fc",
+      "author": "Ivan Sanchez Serrano",
+      "rating": 5.0,
+      "review_text": {
+        "en": "Personal cualificado y buen precio. Rápida respuesta,me cambiaron la cerradura y hemos quedado satisfechos."
+      },
+      "review_date": "2026-08-22T16:57:24+00:00",
+      "raw_date": "Hace 2 meses",
+      "likes": 0,
+      "user_images": [],
+      "s3_images": null,
+      "profile_url": "https://www.google.com/maps/contrib/110928861245817485315/reviews?hl=es",
+      "profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXevy0Wzd9GnFenmX21EacHlJ4_q-CkZKW3Zou09ttNMNFQbXgGEA=w36-h36-p-rp-mo-br100",
+      "s3_profile_picture": null,
+      "owner_responses": {
+        "en": {
+          "text": "Iván, gracias por compartir tu opinión! Nos alegra saber que has quedado contento con la cerradura que te pusimos. Cualquier cosa que necesites, estaremos encantados de atenderte de nuevo. Un saludo! 😊…"
+        }
+      },
+      "created_date": "2026-10-21T16:57:24.905105+00:00",
+      "last_modified": "2026-10-21T16:57:24.905105+00:00",
+      "last_seen_session": 4,
+      "last_changed_session": 4,
+      "is_deleted": 0,
+      "content_hash": "5ef8014371b777dcdcbadd1d1c3aeeb3d5c88e7c7a986d9a660d609cd637d357",
+      "engagement_hash": "0722cb39bff1e02634cda59a7c8f07e45150674bb6aad438d058b46c4a2568cc",
+      "row_version": 1,
+      "sub_ratings": {},
+      "_review_text_raw": {
+        "en": "Personal cualificado y buen precio. Rápida respuesta,me cambiaron la cerradura y hemos quedado satisfechos."
+      },
+      "_user_images_raw": [],
+      "_owner_responses_raw": {
+        "en": {
+          "text": "Iván, gracias por compartir tu opinión! Nos alegra saber que has quedado contento con la cerradura que te pusimos. Cualquier cosa que necesites, estaremos encantados de atenderte de nuevo. Un saludo! 😊…"
+        }
+      }
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tSSFdHeHdaazkyVlY5eVoydElUR05zUm1aak1FRRAB",
+      "place_id": "0x12a4a342f65a4a21:0x87f684e6873ef6fc",
+      "author": "Paula Pacheco Cerro",
+      "rating": 5.0,
+      "review_text": {
+        "en": "Contacte con ellos hace poco y repetiria otra vez sin duda, servicio profesional, impecable y sobretodo muy puntuales! Un trato superatento y profesional en todo momento, super recomendables la verdad 😊😊…"
+      },
+      "review_date": "2026-08-22T16:57:24+00:00",
+      "raw_date": "Hace 2 meses",
+      "likes": 0,
+      "user_images": [],
+      "s3_images": null,
+      "profile_url": "https://www.google.com/maps/contrib/108458999642123189778/reviews?hl=es",
+      "profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocIeMpUMXcsKF8NqkJBEjowzBUCdI9b1CCsx8-NJHyYvLKCpiQ=w36-h36-p-rp-mo-br100",
+      "s3_profile_picture": null,
+      "owner_responses": {
+        "en": {
+          "text": "¡Muchas gracias, Paula! 😊 Nos alegra mucho saber que quedaste tan contenta con el servicio, el trato y la puntualidad. Para nosotros es importante cuidar esos detalles y da gusto saber que lo has valorado así\n\nGracias de verdad por recomendarnos y por compartir tu experiencia!"
+        }
+      },
+      "created_date": "2026-10-21T16:57:24.779213+00:00",
+      "last_modified": "2026-10-21T16:57:24.779213+00:00",
+      "last_seen_session": 4,
+      "last_changed_session": 4,
+      "is_deleted": 0,
+      "content_hash": "89d1ff9441df95c8bdae8d25c9f49422f3c1da631ae6df6ebae0738e61fcd112",
+      "engagement_hash": "0d68f74e360f50cfa60169160f9f92bdeeab440a7773c6278740c126765f4692",
+      "row_version": 1,
+      "sub_ratings": {},
+      "_review_text_raw": {
+        "en": "Contacte con ellos hace poco y repetiria otra vez sin duda, servicio profesional, impecable y sobretodo muy puntuales! Un trato superatento y profesional en todo momento, super recomendables la verdad 😊😊…"
+      },
+      "_user_images_raw": [],
+      "_owner_responses_raw": {
+        "en": {
+          "text": "¡Muchas gracias, Paula! 😊 Nos alegra mucho saber que quedaste tan contenta con el servicio, el trato y la puntualidad. Para nosotros es importante cuidar esos detalles y da gusto saber que lo has valorado así\n\nGracias de verdad por recomendarnos y por compartir tu experiencia!"
+        }
+      }
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tneFJsOXhjbUY1YlROTlFtSkRkVXRyVDFrellWRRAB",
+      "place_id": "0x12a4a342f65a4a21:0x87f684e6873ef6fc",
+      "author": "Carolina Povedano",
+      "rating": 5.0,
+      "review_text": {
+        "en": "Muy recomendable ,son excelentes profesionales"
+      },
+      "review_date": "2026-08-22T16:57:24+00:00",
+      "raw_date": "Hace 2 meses",
+      "likes": 0,
+      "user_images": [],
+      "s3_images": null,
+      "profile_url": "https://www.google.com/maps/contrib/110577102877483901388/reviews?hl=es",
+      "profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocLunWRXdP3EizuyLEBvAJ9HUREg9TpEXmxgvos3f4Y6V03rlw=w36-h36-p-rp-mo-br100",
+      "s3_profile_picture": null,
+      "owner_responses": {
+        "en": {
+          "text": "Muchas gracias, Carolina! Nos alegra mucho saber que tu experiencia ha sido tan positiva. Agradecemos de corazón tu recomendación y tus palabras sobre nuestro equipo. Gracias por confiar en nosotros!😊…"
+        }
+      },
+      "created_date": "2026-10-21T16:57:24.612166+00:00",
+      "last_modified": "2026-10-21T16:57:24.612166+00:00",
+      "last_seen_session": 4,
+      "last_changed_session": 4,
+      "is_deleted": 0,
+      "content_hash": "6aa4f43f88e31fcb74bea0f0ceec43e48612047626a0664b473a0cc7a213b001",
+      "engagement_hash": "2ad097c84ac9e52a1cb771b99db70eb81153b90fafda3d5899d543099cb26ad5",
+      "row_version": 1,
+      "sub_ratings": {},
+      "_review_text_raw": {
+        "en": "Muy recomendable ,son excelentes profesionales"
+      },
+      "_user_images_raw": [],
+      "_owner_responses_raw": {
+        "en": {
+          "text": "Muchas gracias, Carolina! Nos alegra mucho saber que tu experiencia ha sido tan positiva. Agradecemos de corazón tu recomendación y tus palabras sobre nuestro equipo. Gracias por confiar en nosotros!😊…"
+        }
+      }
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25SWWFtNU1NVWRvVGpsbVdYWXlRakZxVld0SE1XYxAB",
+      "place_id": "0x12a4a342f65a4a21:0x87f684e6873ef6fc",
+      "author": "Mercè Arisa Aguilar",
+      "rating": 5.0,
+      "review_text": {
+        "en": "Recomendables 100x100 Grandes profesionales, todo perfecto 🥰…"
+      },
+      "review_date": "2026-08-22T16:57:24+00:00",
+      "raw_date": "Hace 2 meses",
+      "likes": 0,
+      "user_images": [],
+      "s3_images": null,
+      "profile_url": "https://www.google.com/maps/contrib/113144790795182094262/reviews?hl=es",
+      "profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJczU6IzzrWUOqM6rQPVWiU8ltZbcK3bvgaqyhNFxN5jaK-zQ=w36-h36-p-rp-mo-br100",
+      "s3_profile_picture": null,
+      "owner_responses": {
+        "en": {
+          "text": "Muchísimas gracias, Mercé!  Nos alegra un montón saber que ha ido todo perfecto y que te has llevado esa impresión de nosotros. Mensajes así nos dan mucha energía para seguir haciendo las cosas con cariño y profesionalidad. Gracias por recomendarnos!"
+        }
+      },
+      "created_date": "2026-10-21T16:57:24.485066+00:00",
+      "last_modified": "2026-10-21T16:57:24.485066+00:00",
+      "last_seen_session": 4,
+      "last_changed_session": 4,
+      "is_deleted": 0,
+      "content_hash": "b815c7af653dbf0ad159f65996ce08dc1f5c895d7c44f75896ff3d7ff1197063",
+      "engagement_hash": "d90891a7b1b650bbfff22c8e0e7ae154abad01f0640268abc98dba660372ee98",
+      "row_version": 1,
+      "sub_ratings": {},
+      "_review_text_raw": {
+        "en": "Recomendables 100x100 Grandes profesionales, todo perfecto 🥰…"
+      },
+      "_user_images_raw": [],
+      "_owner_responses_raw": {
+        "en": {
+          "text": "Muchísimas gracias, Mercé!  Nos alegra un montón saber que ha ido todo perfecto y que te has llevado esa impresión de nosotros. Mensajes así nos dan mucha energía para seguir haciendo las cosas con cariño y profesionalidad. Gracias por recomendarnos!"
+        }
+      }
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21RNFVGSnRUSFp5WDJWd05HcG5RbDlqU21VNE4zYxAB",
+      "place_id": "0x12a4a342f65a4a21:0x87f684e6873ef6fc",
+      "author": "Sonia Muñoz",
+      "rating": 5.0,
+      "review_text": {
+        "en": "Súper contenta tanto con el personal como con su servicio.\nMuy profesionales, rápidos, amables y efcientes.\nLes llamé porque me dejé las llaves dentro de casa y llegaron enseguida.\nAdemás,  me aconsejaron una cerradura para mejorar la seguridad de mi vivienda,  y otras medidas de seguridad.\nPrevios competitivos."
+      },
+      "review_date": "2026-08-22T16:57:24+00:00",
+      "raw_date": "Hace 2 meses",
+      "likes": 0,
+      "user_images": [],
+      "s3_images": null,
+      "profile_url": "https://www.google.com/maps/contrib/100162791855291682804/reviews?hl=es",
+      "profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWMsbvLiXJpi4uy_gKv84M00g9R7IYx7hMEUdFAPTCRQy8C6pAf=w36-h36-p-rp-mo-ba12-br100",
+      "s3_profile_picture": null,
+      "owner_responses": {
+        "en": {
+          "text": "¡Muchas gracias, Sonia!  Nos alegra muchísimo saber que pudimos ayudarte tan rápido en un momento así, y que además quedaras contenta con el trato y el servicio. Para nosotros es importante no solo resolver la urgencia, sino también poder aconsejarte para que tu casa quede más segura. Gracias por confiar en nosotros y por compartir tu experiencia. Un placer atenderte! 😊"
+        }
+      },
+      "created_date": "2026-10-21T16:57:24.376854+00:00",
+      "last_modified": "2026-10-21T16:57:24.376854+00:00",
+      "last_seen_session": 4,
+      "last_changed_session": 4,
+      "is_deleted": 0,
+      "content_hash": "7d342b3fa4fd997bc697dd8fdc3b803b82f5493be686f57dbec143192c1b13fe",
+      "engagement_hash": "f3eacbfa9448d87e52fa44c517f6bdd70bc57ae4e4ec6631a0910b5324cddab5",
+      "row_version": 1,
+      "sub_ratings": {},
+      "_review_text_raw": {
+        "en": "Súper contenta tanto con el personal como con su servicio.\nMuy profesionales, rápidos, amables y efcientes.\nLes llamé porque me dejé las llaves dentro de casa y llegaron enseguida.\nAdemás,  me aconsejaron una cerradura para mejorar la seguridad de mi vivienda,  y otras medidas de seguridad.\nPrevios competitivos."
+      },
+      "_user_images_raw": [],
+      "_owner_responses_raw": {
+        "en": {
+          "text": "¡Muchas gracias, Sonia!  Nos alegra muchísimo saber que pudimos ayudarte tan rápido en un momento así, y que además quedaras contenta con el trato y el servicio. Para nosotros es importante no solo resolver la urgencia, sino también poder aconsejarte para que tu casa quede más segura. Gracias por confiar en nosotros y por compartir tu experiencia. Un placer atenderte! 😊"
+        }
+      }
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21zemQzcGhObmRRUlVoeGVsaE9WVmxQTFhKMVRuYxAB",
+      "place_id": "0x12a4a342f65a4a21:0x87f684e6873ef6fc",
+      "author": "PP Pineda",
+      "rating": 5.0,
+      "review_text": {
+        "en": "Profesionales y eficaces."
+      },
+      "review_date": "2026-08-22T16:57:24+00:00",
+      "raw_date": "Hace 2 meses",
+      "likes": 0,
+      "user_images": [],
+      "s3_images": null,
+      "profile_url": "https://www.google.com/maps/contrib/106709365253822542674/reviews?hl=es",
+      "profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJI84u4vYg1u9wqufzCSlsinj_l4WpwTFk33vzraBGGs8gQ-w=w36-h36-p-rp-mo-br100",
+      "s3_profile_picture": null,
+      "owner_responses": {
+        "en": {
+          "text": "Muchas gracias, Sr. Pineda. Nos alegra saber que ha quedado satisfecho con el servicio. Agradecemos mucho que se haya tomado un momento para dejarnos su valoración. ¡Un placer atenderle!"
+        }
+      },
+      "created_date": "2026-10-21T16:57:24.187316+00:00",
+      "last_modified": "2026-10-21T16:57:24.187316+00:00",
+      "last_seen_session": 4,
+      "last_changed_session": 4,
+      "is_deleted": 0,
+      "content_hash": "739de88234a9ed22d560cc940b2dff271bf972c4c184641dc19b28a57797f50d",
+      "engagement_hash": "599890b05c58a7a34e00f66f289a4704f81d47af3368faad9687b02163b8d319",
+      "row_version": 1,
+      "sub_ratings": {},
+      "_review_text_raw": {
+        "en": "Profesionales y eficaces."
+      },
+      "_user_images_raw": [],
+      "_owner_responses_raw": {
+        "en": {
+          "text": "Muchas gracias, Sr. Pineda. Nos alegra saber que ha quedado satisfecho con el servicio. Agradecemos mucho que se haya tomado un momento para dejarnos su valoración. ¡Un placer atenderle!"
+        }
+      }
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xWcGEyZ3pSVGR6TFVOcWVVSlJkVU5ZYkU1U1NXYxAB",
+      "place_id": "0x12a4a342f65a4a21:0x87f684e6873ef6fc",
+      "author": "Aina Funes Sala",
+      "rating": 5.0,
+      "review_text": {
+        "en": "Me cambiaron la persiana de mi garaje muy rápido y profesional!"
+      },
+      "review_date": "2026-08-22T16:57:24+00:00",
+      "raw_date": "Hace 2 meses",
+      "likes": 0,
+      "user_images": [],
+      "s3_images": null,
+      "profile_url": "https://www.google.com/maps/contrib/113875120164886998095/reviews?hl=es",
+      "profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjU8nTxVRMNQ6_YeJ3-o1DW6cSCULd3uCrnNQOxp2LRS5C7eGeLm=w36-h36-p-rp-mo-br100",
+      "s3_profile_picture": null,
+      "owner_responses": {
+        "en": {
+          "text": "Gracias por dejarnos tu valoración, Aina! Nos alegra saber que has quedado contenta con el resultado.\n\nDa gusto saber que todo fue bien. Gracias por confiar en nosotros y por dedicar un momento a recomendarnos! 😊"
+        }
+      },
+      "created_date": "2026-10-21T16:57:24.067124+00:00",
+      "last_modified": "2026-10-21T16:57:24.067124+00:00",
+      "last_seen_session": 4,
+      "last_changed_session": 4,
+      "is_deleted": 0,
+      "content_hash": "046366b73b158e8bb9aed1c1c8537b40dcbe4b2682776798f3a3a097dc82571d",
+      "engagement_hash": "fdf0e747f96071760463e73881fc1a7f266a942395c70a174dd6c5082797610b",
+      "row_version": 1,
+      "sub_ratings": {},
+      "_review_text_raw": {
+        "en": "Me cambiaron la persiana de mi garaje muy rápido y profesional!"
+      },
+      "_user_images_raw": [],
+      "_owner_responses_raw": {
+        "en": {
+          "text": "Gracias por dejarnos tu valoración, Aina! Nos alegra saber que has quedado contenta con el resultado.\n\nDa gusto saber que todo fue bien. Gracias por confiar en nosotros y por dedicar un momento a recomendarnos! 😊"
+        }
+      }
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xWSU1YWXhjbmhLYkhBemFXVTNObU5YWjFoMFdXYxAB",
+      "place_id": "0x12a4a342f65a4a21:0x87f684e6873ef6fc",
+      "author": "Anthony Trave",
+      "rating": 5.0,
+      "review_text": {
+        "en": "La experiencia completa, desde la consulta inicial hasta la limpieza final, fue impecable. El equipo hizo que la medición y el pedido fueran rápidos y sencillos, guiándome a través de las opciones de diseño para ofrecer la máxima seguridad sin que la casa parezca una fortaleza.\nPor qué quedé impresionado/a:\nRapidez: El tiempo transcurrido entre el presupuesto y el día de la instalación fue sorprendentemente rápido. El montaje en sí tomó mucho menos tiempo del esperado.\nProfesionalismo: Los instaladores fueron puntuales, muy fáciles de tratar y respetuosos con mi hogar, manteniendo ordenada el área de trabajo.\nCalidad de construcción: Las rejas se sienten sumamente sólidas, ancladas firmemente a la estructura. No tengo ninguna duda de su capacidad para mantener alejados a los intrusos.\nSi estás dudando sobre asegurar tus ventanas, te recomiendo totalmente hacerlo. Fue una experiencia increíblemente fácil de principio a fin, y la tranquilidad adicional vale cada centavo."
+      },
+      "review_date": "2026-09-21T16:57:23+00:00",
+      "raw_date": "Hace un mes",
+      "likes": 0,
+      "user_images": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLcJ-izOVeTBU9Pcz7_WeAvxle27pfrTHvlCWJ5rO7fTNbGEuMnHGe0inrzmEvChKWeZJB-KWBM6SV8xccZbS9XGs4Wc8unrqggvQtsLHdLPjorvZItAJgsRLHKeTQHp4R2GPgIaSCWRUoV9=w600-h450-p-k-no"
+      ],
+      "s3_images": null,
+      "profile_url": "https://www.google.com/maps/contrib/115928536588310455344/reviews?hl=es",
+      "profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJ4xohuG4F7NjAPX6WKaF7sMVsq48EyJLRU3pHNnyiUbfAnwA=w36-h36-p-rp-mo-ba12-br100",
+      "s3_profile_picture": null,
+      "owner_responses": {
+        "en": {
+          "text": "Anthony, muchísimas gracias por tomarte el tiempo de escribir una reseña tan completa y detallada. Nos ha hecho especial ilusión leerla, porque refleja todo el proceso y el trabajo que hay detrás de un servicio así\n\nAdemás, hemos compartido tu reseña con el técnico que realizó la instalación y le ha alegrado muchísimo recibir una valoración tan positiva sobre su trabajo y su forma de trabajar😊\n\nNos alegra saber que quedaste satisfecho tanto con el resultado como con el trato, la rapidez y el cuidado durante la instalación. Para nosotros, que además de quedar bien hecho, el cliente se sienta cómodo y tranquilo durante todo el proceso es muy importante\n\nGracias de verdad por confiar en nosotros y por recomendarnos, Anthony. ¡Ha sido un placer!"
+        }
+      },
+      "created_date": "2026-10-21T16:57:23.920329+00:00",
+      "last_modified": "2026-10-21T16:57:23.920329+00:00",
+      "last_seen_session": 4,
+      "last_changed_session": 4,
+      "is_deleted": 0,
+      "content_hash": "4f2b87df15f8f0fd32cc86c491ac106ec50e16e0b1a873f0e35bf7965b1bd62d",
+      "engagement_hash": "328b1b2096cf4054a03bff820fbec9650040aeaa43fa361d40a5de0cdc386ebe",
+      "row_version": 1,
+      "sub_ratings": {},
+      "_review_text_raw": {
+        "en": "La experiencia completa, desde la consulta inicial hasta la limpieza final, fue impecable. El equipo hizo que la medición y el pedido fueran rápidos y sencillos, guiándome a través de las opciones de diseño para ofrecer la máxima seguridad sin que la casa parezca una fortaleza.\nPor qué quedé impresionado/a:\nRapidez: El tiempo transcurrido entre el presupuesto y el día de la instalación fue sorprendentemente rápido. El montaje en sí tomó mucho menos tiempo del esperado.\nProfesionalismo: Los instaladores fueron puntuales, muy fáciles de tratar y respetuosos con mi hogar, manteniendo ordenada el área de trabajo.\nCalidad de construcción: Las rejas se sienten sumamente sólidas, ancladas firmemente a la estructura. No tengo ninguna duda de su capacidad para mantener alejados a los intrusos.\nSi estás dudando sobre asegurar tus ventanas, te recomiendo totalmente hacerlo. Fue una experiencia increíblemente fácil de principio a fin, y la tranquilidad adicional vale cada centavo."
+      },
+      "_user_images_raw": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLcJ-izOVeTBU9Pcz7_WeAvxle27pfrTHvlCWJ5rO7fTNbGEuMnHGe0inrzmEvChKWeZJB-KWBM6SV8xccZbS9XGs4Wc8unrqggvQtsLHdLPjorvZItAJgsRLHKeTQHp4R2GPgIaSCWRUoV9=w600-h450-p-k-no"
+      ],
+      "_owner_responses_raw": {
+        "en": {
+          "text": "Anthony, muchísimas gracias por tomarte el tiempo de escribir una reseña tan completa y detallada. Nos ha hecho especial ilusión leerla, porque refleja todo el proceso y el trabajo que hay detrás de un servicio así\n\nAdemás, hemos compartido tu reseña con el técnico que realizó la instalación y le ha alegrado muchísimo recibir una valoración tan positiva sobre su trabajo y su forma de trabajar😊\n\nNos alegra saber que quedaste satisfecho tanto con el resultado como con el trato, la rapidez y el cuidado durante la instalación. Para nosotros, que además de quedar bien hecho, el cliente se sienta cómodo y tranquilo durante todo el proceso es muy importante\n\nGracias de verdad por confiar en nosotros y por recomendarnos, Anthony. ¡Ha sido un placer!"
+        }
+      }
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s0d00ydE1ZVVZOV1hCMlNXcHhkMUZWZWpkT2ExRRAB",
+      "place_id": "0x12a4a342f65a4a21:0x87f684e6873ef6fc",
+      "author": "Paula S",
+      "rating": 5.0,
+      "review_text": {
+        "en": "Necesitaba cambiar la cerradura de casa y la experiencia fue muy positiva. Respondieron rápido, el técnico vino a la hora acordada y me realizó la instalación. Muy contenta con la atención recibida, fueron muy amables y profesionales. La verdad que lo recomiendo totalmente!"
+      },
+      "review_date": "2026-09-21T16:57:22+00:00",
+      "raw_date": "Hace un mes",
+      "likes": 0,
+      "user_images": [],
+      "s3_images": null,
+      "profile_url": "https://www.google.com/maps/contrib/100844269377804856822/reviews?hl=es",
+      "profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJM-dxWaru8uTdJScWYOO2Z7DVxmKoFO9aDr5voCZGhzxle-HFk=w36-h36-p-rp-mo-ba12-br100",
+      "s3_profile_picture": null,
+      "owner_responses": {
+        "en": {
+          "text": "Paula, muchísimas gracias por tu reseña! Nos alegra mucho saber que quedaste contenta con el servicio y sobre todo con la atención recibida\n\nSiempre nos enfocamos en que el trabajo se haga bien y que el trato sea cercano, así que da gusto leer comentarios como el tuyo 😊\n\nGracias por recomendarnos y por confiar en nosotros! Estaremos encantados de atenderte siempre que lo necesites"
+        }
+      },
+      "created_date": "2026-10-21T16:57:22.856184+00:00",
+      "last_modified": "2026-10-21T16:57:22.856184+00:00",
+      "last_seen_session": 4,
+      "last_changed_session": 4,
+      "is_deleted": 0,
+      "content_hash": "8e70501e5a2a134f78ccc4b0b9d78b6a1a8ff3f9905035f4f21219279f97cd89",
+      "engagement_hash": "4247245e6650e671ad58a274cbda4aa8c6491bfb2282467c43fe13cbb681d5df",
+      "row_version": 1,
+      "sub_ratings": {},
+      "_review_text_raw": {
+        "en": "Necesitaba cambiar la cerradura de casa y la experiencia fue muy positiva. Respondieron rápido, el técnico vino a la hora acordada y me realizó la instalación. Muy contenta con la atención recibida, fueron muy amables y profesionales. La verdad que lo recomiendo totalmente!"
+      },
+      "_user_images_raw": [],
+      "_owner_responses_raw": {
+        "en": {
+          "text": "Paula, muchísimas gracias por tu reseña! Nos alegra mucho saber que quedaste contenta con el servicio y sobre todo con la atención recibida\n\nSiempre nos enfocamos en que el trabajo se haga bien y que el trato sea cercano, así que da gusto leer comentarios como el tuyo 😊\n\nGracias por recomendarnos y por confiar en nosotros! Estaremos encantados de atenderte siempre que lo necesites"
+        }
+      }
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25CaFp6TmZjVkZWUWs5SVYyVmpNVWs1WnpoaFVHYxAB",
+      "place_id": "0x12a4a342f65a4a21:0x87f684e6873ef6fc",
+      "author": "CESAR ROSSI",
+      "rating": 5.0,
+      "review_text": {
+        "en": "Me solucionaron  el problema con rapidez y profesionalidad. La atención fue magnífica tanto de la persona de recepcion como del\noperario que vino.\nLos recomiendo."
+      },
+      "review_date": "2026-09-21T16:57:22+00:00",
+      "raw_date": "Hace un mes",
+      "likes": 0,
+      "user_images": [],
+      "s3_images": null,
+      "profile_url": "https://www.google.com/maps/contrib/110795733257917148327/reviews?hl=es",
+      "profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUww_TmEoh6eBnH20-y24q54CtbwnBT7hplwNKzEVtrYt64OOo-=w36-h36-p-rp-mo-br100",
+      "s3_profile_picture": null,
+      "owner_responses": {
+        "en": {
+          "text": "César, tal y como te dijimos, nos ha encantado leer tu reseña 😊 Ya sabes que, para cualquier otra cosa que necesites, estaremos encantados de volver a atenderte. ¡Gracias por confiar en nosotros!…"
+        }
+      },
+      "created_date": "2026-10-21T16:57:22.706840+00:00",
+      "last_modified": "2026-10-21T16:57:22.706840+00:00",
+      "last_seen_session": 4,
+      "last_changed_session": 4,
+      "is_deleted": 0,
+      "content_hash": "f1240a7177eb6e266d6e849c4261727a8efbc3c5d7d1fd6c744b570f474608f0",
+      "engagement_hash": "2e21e504e6c91a36c71978c6cb43b50769a35d5868b756a9baf9df7b79b39f44",
+      "row_version": 1,
+      "sub_ratings": {},
+      "_review_text_raw": {
+        "en": "Me solucionaron  el problema con rapidez y profesionalidad. La atención fue magnífica tanto de la persona de recepcion como del\noperario que vino.\nLos recomiendo."
+      },
+      "_user_images_raw": [],
+      "_owner_responses_raw": {
+        "en": {
+          "text": "César, tal y como te dijimos, nos ha encantado leer tu reseña 😊 Ya sabes que, para cualquier otra cosa que necesites, estaremos encantados de volver a atenderte. ¡Gracias por confiar en nosotros!…"
+        }
+      }
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21kVE1IUjBaeTFZZG5wclYzSklkM1V4Ym01ZmFXYxAB",
+      "place_id": "0x12a4a342f65a4a21:0x87f684e6873ef6fc",
+      "author": "Rafael Castro",
+      "rating": 1.0,
+      "review_text": {
+        "en": "Muy difícil de encontrar"
+      },
+      "review_date": "2026-09-21T16:57:22+00:00",
+      "raw_date": "Hace un mes",
+      "likes": 0,
+      "user_images": [],
+      "s3_images": null,
+      "profile_url": "https://www.google.com/maps/contrib/116756682930215392490/reviews?hl=es",
+      "profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJ6t9UFUrdoNdP47sg7bxa9CD8-t-qKWi8cyIlfw52nQO58WQw=w36-h36-p-rp-mo-ba12-br100",
+      "s3_profile_picture": null,
+      "owner_responses": {},
+      "created_date": "2026-10-21T16:57:22.550638+00:00",
+      "last_modified": "2026-10-21T16:57:22.550638+00:00",
+      "last_seen_session": 4,
+      "last_changed_session": 4,
+      "is_deleted": 0,
+      "content_hash": "909e678dd6f18c757f83c8971689de93201cbf4767e3e6f0ed0e019f371450b3",
+      "engagement_hash": "3d3bc3d06f185da393e78bc15e715efd29d420d0d7f06c873ef812cfaee116b4",
+      "row_version": 1,
+      "sub_ratings": {},
+      "_review_text_raw": {
+        "en": "Muy difícil de encontrar"
+      },
+      "_user_images_raw": [],
+      "_owner_responses_raw": {}
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21WTFJYQmZlazU1WjNjeFFXWTRlVlJwVlRsUFprRRAB",
+      "place_id": "0x12a4a342f65a4a21:0x87f684e6873ef6fc",
+      "author": "Montse Barberà",
+      "rating": 5.0,
+      "review_text": {
+        "en": "Los he utilizado por primera vez . Soy administradora de fincas y pienso contar con ellos como industrial habitual. Super serios, puntuales y precios razonablemente buenos."
+      },
+      "review_date": "2026-09-21T16:57:22+00:00",
+      "raw_date": "Hace un mes",
+      "likes": 0,
+      "user_images": [],
+      "s3_images": null,
+      "profile_url": "https://www.google.com/maps/contrib/115080809715320630010/reviews?hl=es",
+      "profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocLPtJ7o3ouJvzoXdrcE1Uxnsi3zCRXHIPXV192hI0h9w5PN=w36-h36-p-rp-mo-br100",
+      "s3_profile_picture": null,
+      "owner_responses": {
+        "en": {
+          "text": "Montse, ha sido un placer empezar a trabajar contigo. Nos alegra especialmente saber que, desde este primer servicio, hayas encontrado en nosotros la seriedad, puntualidad y trato que buscas para tus comunidades. Ojalá sea el primero de muchos trabajos juntos. ¡Aquí nos tienes para lo que necesites!"
+        }
+      },
+      "created_date": "2026-10-21T16:57:22.442387+00:00",
+      "last_modified": "2026-10-21T16:57:22.442387+00:00",
+      "last_seen_session": 4,
+      "last_changed_session": 4,
+      "is_deleted": 0,
+      "content_hash": "da0f95f672b09e0663c9f696d78ccfbf4cde5a819f13f88359d1a1a1da0184b1",
+      "engagement_hash": "a313bcc00c157b9031c039ffbe03ab8f47fee24385d648a02dfe25cac3cd809e",
+      "row_version": 1,
+      "sub_ratings": {},
+      "_review_text_raw": {
+        "en": "Los he utilizado por primera vez . Soy administradora de fincas y pienso contar con ellos como industrial habitual. Super serios, puntuales y precios razonablemente buenos."
+      },
+      "_user_images_raw": [],
+      "_owner_responses_raw": {
+        "en": {
+          "text": "Montse, ha sido un placer empezar a trabajar contigo. Nos alegra especialmente saber que, desde este primer servicio, hayas encontrado en nosotros la seriedad, puntualidad y trato que buscas para tus comunidades. Ojalá sea el primero de muchos trabajos juntos. ¡Aquí nos tienes para lo que necesites!"
+        }
+      }
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tKQ05pMHlOMGxITnpWUlYyMWlUR05RTXpCQk5GRRAB",
+      "place_id": "0x12a4a342f65a4a21:0x87f684e6873ef6fc",
+      "author": "Victor",
+      "rating": 5.0,
+      "review_text": {
+        "en": "Queria poner un poco más de seguridad en casa y llamé a esta cerrajeria. La atención por telefono fue perfecta,super amable; el chico que vino a casa tambien muy atento y profesional.\n\nLo mejor es que 20 minutos después ya estaban en mi casa y todo solucionado ese mismo dia. La verdad es que estoy muy contento con el trato y con el trabajo, los recomiendo"
+      },
+      "review_date": "2026-09-21T16:57:22+00:00",
+      "raw_date": "Hace un mes",
+      "likes": 0,
+      "user_images": [],
+      "s3_images": null,
+      "profile_url": "https://www.google.com/maps/contrib/118239409560552812612/reviews?hl=es",
+      "profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocIwW1jFgn4kwkuRxFAFaXdb6j9OSkNufPqwHSF7lhdDuZL1NeY=w36-h36-p-rp-mo-br100",
+      "s3_profile_picture": null,
+      "owner_responses": {
+        "en": {
+          "text": "Víctor da gusto leer una reseña así. Nos alegra mucho saber que tanto la atención por teléfono como el trabajo en casa estuvieron a la altura\n\nGracias por compartir tu experiencia y por tus palabras. Ha sido un placer atenderte!"
+        }
+      },
+      "created_date": "2026-10-21T16:57:22.318354+00:00",
+      "last_modified": "2026-10-21T16:57:22.318354+00:00",
+      "last_seen_session": 4,
+      "last_changed_session": 4,
+      "is_deleted": 0,
+      "content_hash": "6ed387b84f0752ff79f9b4d452127d98bf2e4f072b6aa5a67f7e342f228df618",
+      "engagement_hash": "cd1ae41076baa14dd05996ae58113bce3eb23e9c92e06f29bacb179c80ea622d",
+      "row_version": 1,
+      "sub_ratings": {},
+      "_review_text_raw": {
+        "en": "Queria poner un poco más de seguridad en casa y llamé a esta cerrajeria. La atención por telefono fue perfecta,super amable; el chico que vino a casa tambien muy atento y profesional.\n\nLo mejor es que 20 minutos después ya estaban en mi casa y todo solucionado ese mismo dia. La verdad es que estoy muy contento con el trato y con el trabajo, los recomiendo"
+      },
+      "_user_images_raw": [],
+      "_owner_responses_raw": {
+        "en": {
+          "text": "Víctor da gusto leer una reseña así. Nos alegra mucho saber que tanto la atención por teléfono como el trabajo en casa estuvieron a la altura\n\nGracias por compartir tu experiencia y por tus palabras. Ha sido un placer atenderte!"
+        }
+      }
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2psemJHRjJWMkpUZERnMVUzZE9ORGd4YlUwNWIyYxAB",
+      "place_id": "0x12a4a342f65a4a21:0x87f684e6873ef6fc",
+      "author": "Piluca",
+      "rating": 5.0,
+      "review_text": {
+        "en": "Abel hizo un trabajo IMPECABLE, un profesional rápido, limpio y además amable."
+      },
+      "review_date": "2026-09-30T16:57:22+00:00",
+      "raw_date": "Hace 3 semanas",
+      "likes": 0,
+      "user_images": [],
+      "s3_images": null,
+      "profile_url": "https://www.google.com/maps/contrib/103181624513954670447/reviews?hl=es",
+      "profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocI3irw5YZbzMqLlMKA4pC6-_s1h631mZEUyjB2lUdqaI6M2wQ=w36-h36-p-rp-mo-br100",
+      "s3_profile_picture": null,
+      "owner_responses": {
+        "en": {
+          "text": "Nos alegra mucho saber que quedó tan satisfecho con el trabajo de Abel, Sr Fernando. Se lo trasladaremos, porque seguro que le hará ilusión saber que valoró tanto su forma de trabajar. Gracias por compartir su experiencia. Estamos siempre a su disposición."
+        }
+      },
+      "created_date": "2026-10-21T16:57:22.141866+00:00",
+      "last_modified": "2026-10-21T16:57:22.141866+00:00",
+      "last_seen_session": 4,
+      "last_changed_session": 4,
+      "is_deleted": 0,
+      "content_hash": "ee14966cad818f4a15507e5777f07feae096243b7a46112aa0e38c3efbcd9278",
+      "engagement_hash": "fc995aa45dbb96e07d25983ab82bada14d0ae0e9bcb7b7d7203bec87830d2b6a",
+      "row_version": 1,
+      "sub_ratings": {},
+      "_review_text_raw": {
+        "en": "Abel hizo un trabajo IMPECABLE, un profesional rápido, limpio y además amable."
+      },
+      "_user_images_raw": [],
+      "_owner_responses_raw": {
+        "en": {
+          "text": "Nos alegra mucho saber que quedó tan satisfecho con el trabajo de Abel, Sr Fernando. Se lo trasladaremos, porque seguro que le hará ilusión saber que valoró tanto su forma de trabajar. Gracias por compartir su experiencia. Estamos siempre a su disposición."
+        }
+      }
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xBemNHVm9TVGRwV0hCVGJHazFZWFkzYzE5TFFXYxAB",
+      "place_id": "0x12a4a342f65a4a21:0x87f684e6873ef6fc",
+      "author": "Albert Orriols",
+      "rating": 5.0,
+      "review_text": {
+        "en": "Ràpids, amables i eficients"
+      },
+      "review_date": "2026-10-07T16:57:21+00:00",
+      "raw_date": "Hace 2 semanas",
+      "likes": 0,
+      "user_images": [],
+      "s3_images": null,
+      "profile_url": "https://www.google.com/maps/contrib/108418014481057538850/reviews?hl=es",
+      "profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWS5rgMgnPSmDsQtdCktSF1PH8kXKxyhXlz2ykzSHV4qn7MvRM=w36-h36-p-rp-mo-ba12-br100",
+      "s3_profile_picture": null,
+      "owner_responses": {
+        "en": {
+          "text": "Moltes gràcies, Sr. Orriols! Ens alegra saber que ha quedat satisfet amb el servei. Intentem que cada intervenció sigui així: ràpida, eficient i amb un tracte proper. Ha estat un plaer atendre’l!"
+        }
+      },
+      "created_date": "2026-10-21T16:57:22.023357+00:00",
+      "last_modified": "2026-10-21T16:57:22.023357+00:00",
+      "last_seen_session": 4,
+      "last_changed_session": 4,
+      "is_deleted": 0,
+      "content_hash": "a2433d2948b8b1444fe80d016d04c6d61dbda867df4d11799cd53662a5ecff53",
+      "engagement_hash": "bf12e3dced90b89906352c2a476407895e5b67fc0fe116aa9036fa8e84682f29",
+      "row_version": 1,
+      "sub_ratings": {},
+      "_review_text_raw": {
+        "en": "Ràpids, amables i eficients"
+      },
+      "_user_images_raw": [],
+      "_owner_responses_raw": {
+        "en": {
+          "text": "Moltes gràcies, Sr. Orriols! Ens alegra saber que ha quedat satisfet amb el servei. Intentem que cada intervenció sigui així: ràpida, eficient i amb un tracte proper. Ha estat un plaer atendre’l!"
+        }
+      }
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xsM09EUkhUMmRMWjNwZlRFczFXR3hFYjB4UFQwRRAB",
+      "place_id": "0x12a4a342f65a4a21:0x87f684e6873ef6fc",
+      "author": "Julia Hernandez",
+      "rating": 5.0,
+      "review_text": {
+        "en": "Les encargué la reparación de una persiana y me atendieron rápido e hicieron seguimiento. Muy buena atención y muy buen servicio."
+      },
+      "review_date": "2026-10-19T16:57:21+00:00",
+      "raw_date": "hace 2 días",
+      "likes": 0,
+      "user_images": [],
+      "s3_images": null,
+      "profile_url": "https://www.google.com/maps/contrib/103627813891209232412/reviews?hl=es",
+      "profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocKTGiDObsCyY0nPQM6S1dXae3jr_oiE7NLOZq_Wbo3W9l30Rg=w36-h36-p-rp-mo-br100",
+      "s3_profile_picture": null,
+      "owner_responses": {
+        "en": {
+          "text": "Julia, nos alegra mucho que hayas quedado contenta! 😊 Intentamos que no solo el trabajo salga bien, sino que también te sientas bien atendida durante todo el proceso. Gracias por confiar en Merafex!…"
+        }
+      },
+      "created_date": "2026-10-21T16:57:21.843787+00:00",
+      "last_modified": "2026-10-21T16:57:21.843787+00:00",
+      "last_seen_session": 4,
+      "last_changed_session": 4,
+      "is_deleted": 0,
+      "content_hash": "9416f396a4c2af8feb0a595c959d59f82bace9c0ef4f7aa06eec2d173e3c3c8c",
+      "engagement_hash": "c0c6f6984e2e16ee7c4de0aaad692f77763c15ec7fd5d18a549ac1ee405e8c19",
+      "row_version": 1,
+      "sub_ratings": {},
+      "_review_text_raw": {
+        "en": "Les encargué la reparación de una persiana y me atendieron rápido e hicieron seguimiento. Muy buena atención y muy buen servicio."
+      },
+      "_user_images_raw": [],
+      "_owner_responses_raw": {
+        "en": {
+          "text": "Julia, nos alegra mucho que hayas quedado contenta! 😊 Intentamos que no solo el trabajo salga bien, sino que también te sientas bien atendida durante todo el proceso. Gracias por confiar en Merafex!…"
+        }
+      }
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xObVNIVm1VVk56U2pjeVlVbFJNRXRxTVhOQ2JtYxAB",
+      "place_id": "0x12a4a342f65a4a21:0x87f684e6873ef6fc",
+      "author": "Nuria Herrador",
+      "rating": 5.0,
+      "review_text": {
+        "en": "Muy contentos con el servicio y el resultado. Hablé con Marta, que me atendió por teléfono, y enseguida entendió lo que necesitábamos. Han sido puntuales, han respetado el precio del presupuesto y han dejado el mueble de recepción muy bien.\n¡Da gusto encontrar profesionales así!\nSin duda, los recomendamos.\nY volvería a contratar sin dudarlo!!😃"
+      },
+      "review_date": "2026-10-20T16:57:21+00:00",
+      "raw_date": "hace un día",
+      "likes": 0,
+      "user_images": [],
+      "s3_images": null,
+      "profile_url": "https://www.google.com/maps/contrib/107545802392857362248/reviews?hl=es",
+      "profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocLanyadIr2pPExc5IyhV3zZiyFVAYfP7lTOu4BG3nrCVj-HTA=w36-h36-p-rp-mo-ba12-br100",
+      "s3_profile_picture": null,
+      "owner_responses": {
+        "en": {
+          "text": "Qué alegría leer comentarios así! 😃 Nos alegra mucho saber que habéis quedado contentos tanto con el resultado como con la atención recibida. Le trasladaremos a Marta vuestras palabras, seguro que le hace ilusión. Gracias por recomendarnos y por contar con Merafex! Aquí estaremos encantados de ayudaros siempre que lo necesitéis.…"
+        }
+      },
+      "created_date": "2026-10-21T16:57:21.712924+00:00",
+      "last_modified": "2026-10-21T16:57:21.712924+00:00",
+      "last_seen_session": 4,
+      "last_changed_session": 4,
+      "is_deleted": 0,
+      "content_hash": "8d6ed5cd2966d8657479e920b3fb25debd5b9ede00e2a7ad9229ff4e90845bea",
+      "engagement_hash": "9515749ae36e55ebd2ab1d28fe1ffcd358579e57ef70fcbb18a50df1dc73b5ba",
+      "row_version": 1,
+      "sub_ratings": {},
+      "_review_text_raw": {
+        "en": "Muy contentos con el servicio y el resultado. Hablé con Marta, que me atendió por teléfono, y enseguida entendió lo que necesitábamos. Han sido puntuales, han respetado el precio del presupuesto y han dejado el mueble de recepción muy bien.\n¡Da gusto encontrar profesionales así!\nSin duda, los recomendamos.\nY volvería a contratar sin dudarlo!!😃"
+      },
+      "_user_images_raw": [],
+      "_owner_responses_raw": {
+        "en": {
+          "text": "Qué alegría leer comentarios así! 😃 Nos alegra mucho saber que habéis quedado contentos tanto con el resultado como con la atención recibida. Le trasladaremos a Marta vuestras palabras, seguro que le hace ilusión. Gracias por recomendarnos y por contar con Merafex! Aquí estaremos encantados de ayudaros siempre que lo necesitéis.…"
+        }
+      }
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25GWVJHVkZXV2RCTVhaT09UTm5ZMjV2Y200eFJYYxAB",
+      "place_id": "0x12a4a342f65a4a21:0x87f684e6873ef6fc",
+      "author": "Accion Okupa",
+      "rating": 5.0,
+      "review_text": {
+        "en": "Estamos encantados con el servicio que nos han proporcionado. Desde el trato dispensado por Marta, su amabilidad, su manera de explicarnos todo y la claridad en el presupuesto, obivamente es un lugar de referencia en el mundo de la cerrajería. Sumanente recomendable y eficacia garantizada."
+      },
+      "review_date": "2026-10-20T16:57:21+00:00",
+      "raw_date": "hace un día",
+      "likes": 0,
+      "user_images": [],
+      "s3_images": null,
+      "profile_url": "https://www.google.com/maps/contrib/110763369872158271309/reviews?hl=es",
+      "profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocL7z_5lk-xOXOt6h0XYSsMoa4tw_L5LLaJWrO3vgN3TeAhy0Q=w36-h36-p-rp-mo-br100",
+      "s3_profile_picture": null,
+      "owner_responses": {
+        "en": {
+          "text": "Muchísimas gracias por recomendarnos! Nos alegra saber que Marta os hizo sentir bien atendidos y que todo quedó claro desde el primer momento. Para nosotros es importante que tengáis confianza y tranquilidad durante todo el proceso. Ha sido un placer atenderos y esperamos volver a ayudaros cuando lo necesitéis! 😊…"
+        }
+      },
+      "created_date": "2026-10-21T16:57:21.546006+00:00",
+      "last_modified": "2026-10-21T16:57:21.546006+00:00",
+      "last_seen_session": 4,
+      "last_changed_session": 4,
+      "is_deleted": 0,
+      "content_hash": "aa59cf4b62b3b30dce007df6eca7695fbfd65d600eafa4b27ed744494434d4da",
+      "engagement_hash": "ade95796dfc06207ebf64403c0b96c4fdd3f6cd94a4502bb95b8f053d63d9617",
+      "row_version": 1,
+      "sub_ratings": {},
+      "_review_text_raw": {
+        "en": "Estamos encantados con el servicio que nos han proporcionado. Desde el trato dispensado por Marta, su amabilidad, su manera de explicarnos todo y la claridad en el presupuesto, obivamente es un lugar de referencia en el mundo de la cerrajería. Sumanente recomendable y eficacia garantizada."
+      },
+      "_user_images_raw": [],
+      "_owner_responses_raw": {
+        "en": {
+          "text": "Muchísimas gracias por recomendarnos! Nos alegra saber que Marta os hizo sentir bien atendidos y que todo quedó claro desde el primer momento. Para nosotros es importante que tengáis confianza y tranquilidad durante todo el proceso. Ha sido un placer atenderos y esperamos volver a ayudaros cuando lo necesitéis! 😊…"
+        }
+      }
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25BdFNHRklWR05GVVZwR04xcHVTa3h4TjFsaFgwRRAB",
+      "place_id": "0x12a4a342f65a4a21:0x87f684e6873ef6fc",
+      "author": "Soledad Gallego",
+      "rating": 5.0,
+      "review_text": {
+        "en": "Muy buenos profesionales, fueron rápidos y muy atentos. Los recomiendo mucho."
+      },
+      "review_date": "2026-07-23T16:49:59+00:00",
+      "raw_date": "Hace 3 meses",
+      "likes": 0,
+      "user_images": [],
+      "s3_images": null,
+      "profile_url": "https://www.google.com/maps/contrib/117922838735370272145/reviews?hl=es",
+      "profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocLZCUjnXMpLcteTK0zfS6TPdf4YhRiHv0PJoXYzxzzZmhUII0k=w36-h36-p-rp-mo-br100",
+      "s3_profile_picture": null,
+      "owner_responses": {
+        "en": {
+          "text": "¡Muchas gracias por tu reseña, Soledad! Nos alegra saber que quedaste satisfecha con el servicio y con la atención recibida. Gracias también por recomendarnos y por confiar en Merafex. ¡Un saludo!"
+        }
+      },
+      "created_date": "2026-10-21T16:49:59.297886+00:00",
+      "last_modified": "2026-10-21T16:49:59.297886+00:00",
+      "last_seen_session": 2,
+      "last_changed_session": 2,
+      "is_deleted": 0,
+      "content_hash": "d5c032e8d469f0296c47420eaef201af40d4810665e2edb7b2db7ef509536f61",
+      "engagement_hash": "c194f7981e3ff57d233e3d1d40bd3a67076b3cf18ba7141cc218f856fb63e35f",
+      "row_version": 1,
+      "sub_ratings": {},
+      "_review_text_raw": {
+        "en": "Muy buenos profesionales, fueron rápidos y muy atentos. Los recomiendo mucho."
+      },
+      "_user_images_raw": [],
+      "_owner_responses_raw": {
+        "en": {
+          "text": "¡Muchas gracias por tu reseña, Soledad! Nos alegra saber que quedaste satisfecha con el servicio y con la atención recibida. Gracias también por recomendarnos y por confiar en Merafex. ¡Un saludo!"
+        }
+      }
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT20xMU5qVlFVakJLZVRZNGEySjNhSGgyVUVSTlQxRRAB",
+      "place_id": "0x12a4a342f65a4a21:0x87f684e6873ef6fc",
+      "author": "Dani",
+      "rating": 5.0,
+      "review_text": {
+        "en": "La verdad es que muy contento con el servicio. Llame porque me había quedado fuera de casa y llegaron rápido y fueron muy amables en todo momento"
+      },
+      "review_date": "2026-07-23T16:49:59+00:00",
+      "raw_date": "Hace 3 meses",
+      "likes": 0,
+      "user_images": [],
+      "s3_images": null,
+      "profile_url": "https://www.google.com/maps/contrib/105841785360430468404/reviews?hl=es",
+      "profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocKkBCY2qoOZxGEdhSSoAATKHJS6rTioEfFFXw5e39SciFTC8DI=w36-h36-p-rp-mo-br100",
+      "s3_profile_picture": null,
+      "owner_responses": {
+        "en": {
+          "text": "¡Gracias por dedicar unos minutos a dejarnos tu opinión, Dani! \nNos alegra mucho que quedaras contento tanto con la rapidez como con el trato. Ha sido un placer ayudarte. ¡Un saludo y gracias por confiar en Merafex!"
+        }
+      },
+      "created_date": "2026-10-21T16:49:59.187077+00:00",
+      "last_modified": "2026-10-21T16:49:59.187077+00:00",
+      "last_seen_session": 2,
+      "last_changed_session": 2,
+      "is_deleted": 0,
+      "content_hash": "a635355e40fa7de4cd56a5a1c40ec0ccacd28b2f16d1d6e445a92fd1da800456",
+      "engagement_hash": "25fb898bfdc0b02d5930b7f2f9a56c0a561a883bef53ce76c508520b57e21511",
+      "row_version": 1,
+      "sub_ratings": {},
+      "_review_text_raw": {
+        "en": "La verdad es que muy contento con el servicio. Llame porque me había quedado fuera de casa y llegaron rápido y fueron muy amables en todo momento"
+      },
+      "_user_images_raw": [],
+      "_owner_responses_raw": {
+        "en": {
+          "text": "¡Gracias por dedicar unos minutos a dejarnos tu opinión, Dani! \nNos alegra mucho que quedaras contento tanto con la rapidez como con el trato. Ha sido un placer ayudarte. ¡Un saludo y gracias por confiar en Merafex!"
+        }
+      }
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xob1NtcHdTa3BVZDE5WWQyODBOVkEwZERkblMwRRAB",
+      "place_id": "0x12a4a342f65a4a21:0x87f684e6873ef6fc",
+      "author": "MARIA GAONA ORTEGA",
+      "rating": 5.0,
+      "review_text": {
+        "en": "Excelente servicio. Rápidos, profesionales y muy amables. Resolvieron el problema enseguida y a un precio justo. ¡Totalmente recomendados!"
+      },
+      "review_date": "2026-07-23T16:49:59+00:00",
+      "raw_date": "Hace 3 meses",
+      "likes": 0,
+      "user_images": [],
+      "s3_images": null,
+      "profile_url": "https://www.google.com/maps/contrib/116347803040818159163/reviews?hl=es",
+      "profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocLj2XVmHWt6MSCkI3Gfxz4yKijeFP_0K8MYsNlmattFIhYZLQ=w36-h36-p-rp-mo-br100",
+      "s3_profile_picture": null,
+      "owner_responses": {
+        "en": {
+          "text": "Nos alegra mucho leer comentarios como este, Maria. 😊 Saber que quedaste satisfecha con la rapidez, el trato y la solución del problema nos anima a seguir trabajando así.\nHa sido un placer ayudarte y esperamos poder atenderte de nuevo cuando lo necesites"
+        }
+      },
+      "created_date": "2026-10-21T16:49:59.070745+00:00",
+      "last_modified": "2026-10-21T16:49:59.070745+00:00",
+      "last_seen_session": 2,
+      "last_changed_session": 2,
+      "is_deleted": 0,
+      "content_hash": "647d65be57f67180e78c97db33a980f6a5f40a14b6cc1603f769df787ca05d9a",
+      "engagement_hash": "772379826b2f0d1d4e5f9c5551019f68d81520d7bd946e0dd347c8c77fb8d11d",
+      "row_version": 1,
+      "sub_ratings": {},
+      "_review_text_raw": {
+        "en": "Excelente servicio. Rápidos, profesionales y muy amables. Resolvieron el problema enseguida y a un precio justo. ¡Totalmente recomendados!"
+      },
+      "_user_images_raw": [],
+      "_owner_responses_raw": {
+        "en": {
+          "text": "Nos alegra mucho leer comentarios como este, Maria. 😊 Saber que quedaste satisfecha con la rapidez, el trato y la solución del problema nos anima a seguir trabajando así.\nHa sido un placer ayudarte y esperamos poder atenderte de nuevo cuando lo necesites"
+        }
+      }
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xOck9XOURWVTVFVFV4M1VrSXRVR0ZmVFdVek9VRRAB",
+      "place_id": "0x12a4a342f65a4a21:0x87f684e6873ef6fc",
+      "author": "MSLIS",
+      "rating": 5.0,
+      "review_text": {
+        "en": "Empresa muy seria y formal. Me atendieron muy rápido y con eficiencia. Personal muy amable y atento. Se agradece cuando lo necesitas. Muy buena relación calidad/precio.  Muy muy recomendable!!!! Muchas gracias por vuestro servicio!!!! Habéis ganado un cliente!!!!"
+      },
+      "review_date": "2026-07-23T16:49:58+00:00",
+      "raw_date": "Hace 3 meses",
+      "likes": 0,
+      "user_images": [],
+      "s3_images": null,
+      "profile_url": "https://www.google.com/maps/contrib/101282046168506718467/reviews?hl=es",
+      "profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocKvUDZ52jJduvxwy5hOU8H1ORaS5n1zayV89Y5tA5rulOjXVg=w36-h36-p-rp-mo-ba12-br100",
+      "s3_profile_picture": null,
+      "owner_responses": {
+        "en": {
+          "text": "¡Muchas gracias por compartir tu experiencia! Nos alegra saber que quedaste satisfecha con el servicio y que valoras tanto la rapidez como la atención recibida. Te agradecemos el tiempo que has dedicado a escribir una reseña tan positiva. Ha sido un placer atenderte y estaremos encantados de ayudarte siempre que lo necesites. ¡Un saludo!"
+        }
+      },
+      "created_date": "2026-10-21T16:49:58.926204+00:00",
+      "last_modified": "2026-10-21T16:49:58.926204+00:00",
+      "last_seen_session": 2,
+      "last_changed_session": 2,
+      "is_deleted": 0,
+      "content_hash": "23848d821b79eafac2b41682eaba3f37fb652ad95ca726a43c6060206126aa0f",
+      "engagement_hash": "855f95aa4b6c84eaf2470071a0cb400e242dbe4b101c3f2d238d618570890494",
+      "row_version": 1,
+      "sub_ratings": {},
+      "_review_text_raw": {
+        "en": "Empresa muy seria y formal. Me atendieron muy rápido y con eficiencia. Personal muy amable y atento. Se agradece cuando lo necesitas. Muy buena relación calidad/precio.  Muy muy recomendable!!!! Muchas gracias por vuestro servicio!!!! Habéis ganado un cliente!!!!"
+      },
+      "_user_images_raw": [],
+      "_owner_responses_raw": {
+        "en": {
+          "text": "¡Muchas gracias por compartir tu experiencia! Nos alegra saber que quedaste satisfecha con el servicio y que valoras tanto la rapidez como la atención recibida. Te agradecemos el tiempo que has dedicado a escribir una reseña tan positiva. Ha sido un placer atenderte y estaremos encantados de ayudarte siempre que lo necesites. ¡Un saludo!"
+        }
+      }
+    },
+    {
+      "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25JeVdIcHBUR0Z2VjNGVVJVbHVNVlJZV2xoYU0yYxAB",
+      "place_id": "0x12a4a342f65a4a21:0x87f684e6873ef6fc",
+      "author": "Laura Granato",
+      "rating": 5.0,
+      "review_text": {
+        "en": "Excelente servicio. Han sido muy  profesionales y amables desde el primer momento. Me solucionaron el problema y me ofrecieron soluciones nuevas. Se nota que tienen experiencia y ofrecen un trato de confianza. Lo recomiendo un montón!!"
+      },
+      "review_date": "2026-08-22T16:49:58+00:00",
+      "raw_date": "Hace 2 meses",
+      "likes": 0,
+      "user_images": [],
+      "s3_images": null,
+      "profile_url": "https://www.google.com/maps/contrib/108035094272945451975/reviews?hl=es",
+      "profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocIhYyaAFJSeLmesKLD_amFcHfSitnQcnKDcToKL2_IlCvDH=w36-h36-p-rp-mo-ba12-br100",
+      "s3_profile_picture": null,
+      "owner_responses": {
+        "en": {
+          "text": "Laura, qué gusto leer comentarios así. 😊 Nos alegra mucho saber que te has sentido bien atendida y que pudimos ayudarte encontrando una buena solución.\nIntentamos siempre escuchar a cada cliente y ofrecer la opción que mejor se adapte a sus necesidades.\nMuchas gracias por recomendarnos y por confiar en Cerrajería Merafex. Un saludo!"
+        }
+      },
+      "created_date": "2026-10-21T16:49:58.789536+00:00",
+      "last_modified": "2026-10-21T16:49:58.789536+00:00",
+      "last_seen_session": 2,
+      "last_changed_session": 2,
+      "is_deleted": 0,
+      "content_hash": "8d245f9361ecc246832dcad1352b34b4ac2f860be11bfb27414b9440752b1375",
+      "engagement_hash": "d728001b5789b678e7a56ee93b9c52d0af263b9e1afab162bcea1df790915f47",
+      "row_version": 1,
+      "sub_ratings": {},
+      "_review_text_raw": {
+        "en": "Excelente servicio. Han sido muy  profesionales y amables desde el primer momento. Me solucionaron el problema y me ofrecieron soluciones nuevas. Se nota que tienen experiencia y ofrecen un trato de confianza. Lo recomiendo un montón!!"
+      },
+      "_user_images_raw": [],
+      "_owner_responses_raw": {
+        "en": {
+          "text": "Laura, qué gusto leer comentarios así. 😊 Nos alegra mucho saber que te has sentido bien atendida y que pudimos ayudarte encontrando una buena solución.\nIntentamos siempre escuchar a cada cliente y ofrecer la opción que mejor se adapte a sus necesidades.\nMuchas gracias por recomendarnos y por confiar en Cerrajería Merafex. Un saludo!"
+        }
+      }
+    }
+  ]
+}
